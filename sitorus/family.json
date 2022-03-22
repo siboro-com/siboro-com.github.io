@@ -1,0 +1,531 @@
+var loadData =
+{"name": " Raja Toga Sitorus", "detail": "32775456 Raja Toga Sitorus\nBorn: ABT 1609", "children": [
+  {"name": " Pane", "detail": "39040262 Pane\nParents: Raja Toga Sitorus and Pinta Omas Palangki SAGALA", "children": [
+    {"name": " Raja Sipakko", "detail": "18632605 Raja Sipakko SITORUS\nParents: Pane and unknown", "children": [
+      {"name": " Parmata Sopiak", "detail": "92540192 Parmata Sopiak SITORUS\nParents: Raja Sipakko SITORUS and unknown", "size": 1},
+      {"name": " Pargumis", "detail": "6334112 Pargumis SITORUS\nParents: Raja Sipakko SITORUS and unknown", "size": 1}
+    ]},
+    {"name": " Haruan Bosi", "detail": "31905746 Haruan Bosi SITORUS\nParents: Pane and unknown", "size": 1},
+    {"name": " Ompu Raja Diatas", "detail": "77233346 Ompu Raja Diatas SITORUS\nParents: Pane and unknown", "children": [
+      {"name": " Raja Sitangkup Lali", "detail": "78676240 Raja Sitangkup Lali SITORUS\nParents: Ompu Raja Diatas SITORUS and unknown", "children": [
+        {"name": " Raja Bungabunga", "detail": "90049798 Raja Bungabunga SITORUS\nParents: Raja Sitangkup Lali SITORUS and unknown", "size": 1},
+        {"name": " Raja Ujung Pinang", "detail": "87270256 Raja Ujung Pinang SITORUS\nParents: Raja Sitangkup Lali SITORUS and unknown", "children": [
+          {"name": " Buntu Pane", "detail": "86476315 Buntu Pane SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Badia Raja", "detail": "57941268 Badia Raja SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Raja Parungilungil", "detail": "38949828 Raja Parungilungil SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Paninggala Tunggal", "detail": "2907738 Paninggala Tunggal SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Raja Bambaso", "detail": "25962852 Raja Bambaso SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Tuan Nabolon", "detail": "92528584 Tuan Nabolon SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1},
+          {"name": " Raja Marjalang", "detail": "14467567 Raja Marjalang SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "children": [
+            {"name": " Pane Datu", "detail": "57178779 Pane Datu SITORUS\nParents: Raja Marjalang SITORUS and unknown", "children": [
+              {"name": " Ompu Toga Oloan", "detail": "42170670 Ompu Toga Oloan SITORUS\nParents: Pane Datu SITORUS and unknown", "size": 1},
+              {"name": " Ompu Toga Saur", "detail": "49809926 Ompu Toga Saur SITORUS\nParents: Pane Datu SITORUS and unknown", "size": 1},
+              {"name": " Ompu Partinah", "detail": "28501902 Ompu Partinah SITORUS\nParents: Pane Datu SITORUS and unknown", "children": [
+                {"name": " Ompu Raja Diha", "detail": "17964112 Ompu Raja Diha SITORUS\nParents: Ompu Partinah SITORUS and unknown", "children": [
+                  {"name": " Ompu Sounangon", "detail": "19592208 Ompu Sounangon SITORUS\nParents: Ompu Raja Diha SITORUS and unknown", "size": 1},
+                  {"name": " Ompu Lambas", "detail": "63218030 Ompu Lambas SITORUS\nParents: Ompu Raja Diha SITORUS and unknown", "size": 1},
+                  {"name": " Raja Pangarunding", "detail": "62714698 Raja Pangarunding SITORUS\nParents: Ompu Raja Diha SITORUS and unknown", "children": [
+                    {"name": " Ompu Panotar", "detail": "88772240 Ompu Panotar SITORUS\nParents: Raja Pangarunding SITORUS and unknown", "children": [
+                      {"name": " Ompu Sondang", "detail": "11262220 Ompu Sondang SITORUS\nParents: Ompu Panotar SITORUS and unknown", "children": [
+                        {"name": " Ompu Jarmang", "detail": "933085 Ompu Jarmang SITORUS\nParents: Ompu Sondang SITORUS and unknown", "children": [
+                          {"name": " Amani Jarmang", "detail": "60069872 Amani Jarmang SITORUS\nParents: Ompu Jarmang SITORUS and unknown", "children": [
+                            {"name": " Ompu Jaintan", "detail": "2751034 Ompu Jaintan SITORUS\nParents: Amani Jarmang SITORUS and unknown", "children": [
+                              {"name": " Amani Jaintan", "detail": "33241920 Amani Jaintan SITORUS\nParents: Ompu Jaintan SITORUS and unknown", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Ompu Tumundi", "detail": "22079182 Ompu Tumundi SITORUS\nParents: Ompu Jarmang SITORUS and unknown", "children": [
+                            {"name": " Amani Tumundi", "detail": "57245612 Amani Tumundi SITORUS\nParents: Ompu Tumundi SITORUS and unknown", "children": [
+                              {"name": " Daniel", "detail": "85402324 Daniel SITORUS\nParents: Amani Tumundi SITORUS and unknown", "size": 1},
+                              {"name": " Mariun", "detail": "21519124 Mariun SITORUS\nParents: Amani Tumundi SITORUS and unknown", "children": [
+                                {"name": " Marulam", "detail": "59672036 Marulam SITORUS\nParents: Mariun SITORUS and unknown", "children": [
+                                  {"name": " Jenton", "detail": "36308034 Jenton SITORUS\nParents: Marulam SITORUS and unknown", "children": [
+                                    {"name": " Norton Adyanto", "detail": "25365424 Norton Adyanto SITORUS\nParents: Jenton SITORUS and unknown", "size": 1}
+                                  ]}
+                                ]}
+                              ]}
+                            ]}
+                          ]},
+                          {"name": " Ompu Marsinta", "detail": "65860904 Ompu Marsinta SITORUS\nParents: Ompu Jarmang SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Ni Osta", "detail": "20030610 Ompu Ni Osta SITORUS\nParents: Ompu Jarmang SITORUS and unknown", "size": 1}
+                        ]},
+                        {"name": " Omopu Soimbangon", "detail": "87558932 Omopu Soimbangon SITORUS\nParents: Ompu Sondang SITORUS and unknown", "size": 1},
+                        {"name": " Ompu Sau", "detail": "17230841 Ompu Sau SITORUS\nParents: Ompu Sondang SITORUS and unknown", "size": 1},
+                        {"name": " Ompu Gandong", "detail": "60652826 Ompu Gandong SITORUS\nParents: Ompu Sondang SITORUS and unknown", "size": 1}
+                      ]}
+                    ]}
+                  ]}
+                ]},
+                {"name": " Salende", "detail": "88745228 Salende SITORUS\nParents: Ompu Partinah SITORUS and unknown", "size": 1},
+                {"name": " Ompu Marjoit", "detail": "22385261 Ompu Marjoit SITORUS\nParents: Ompu Partinah SITORUS and unknown", "size": 1}
+              ]}
+            ]},
+            {"name": " Raja Nagende", "detail": "15716727 Raja Nagende SITORUS\nParents: Raja Marjalang SITORUS and unknown", "size": 1}
+          ]},
+          {"name": " Raja Martunas", "detail": "79326977 Raja Martunas SITORUS\nParents: Raja Ujung Pinang SITORUS and unknown", "size": 1}
+        ]}
+      ]},
+      {"name": " Raja Saur Barani", "detail": "49153738 Raja Saur Barani SITORUS\nParents: Ompu Raja Diatas SITORUS and unknown", "size": 1}
+    ]},
+    {"name": " Raja Sionggang", "detail": "10872196 Raja Sionggang SITORUS\nParents: Pane and unknown", "size": 1},
+    {"name": " Parungilungil", "detail": "10761245 Parungilungil SITORUS\nParents: Pane and unknown", "size": 1}
+  ]},
+  {"name": " Raja Sitorus Boltok", "detail": "36510448 Raja Sitorus Boltok\nBorn: ABT 1634\nParents: Raja Toga Sitorus and Pinta Omas Palangki SAGALA", "children": [
+    {"name": " Binduraja", "detail": "92928584 Binduraja SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Hatogahan", "detail": "42848378 Hatogahan SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Na Dogor", "detail": "65362712 Na Dogor SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Tagor", "detail": "52413267 Tagor SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Martangga", "detail": "62654176 Martangga SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Baruang", "detail": "45985865 Baruang SITORUS\nParents: Raja Sitorus Boltok and unknown", "size": 1},
+    {"name": " Namora Panagian", "detail": "79443793 Namora Panagian SITORUS\nBorn: ABT 1659\nParents: Raja Sitorus Boltok and unknown", "children": [
+      {"name": " Asar Ni Eme", "detail": "32144408 Asar Ni Eme SITORUS\nParents: Namora Panagian SITORUS and unknown", "size": 1},
+      {"name": " Tunggal Manusar", "detail": "43858144 Tunggal Manusar SITORUS\nParents: Namora Panagian SITORUS and unknown", "size": 1},
+      {"name": " Datu Sumalanggak", "detail": "91172852 Datu Sumalanggak SITORUS\nBorn: ABT 1684\nParents: Namora Panagian SITORUS and unknown", "children": [
+        {"name": " Pamasang", "detail": "77761792 Pamasang SITORUS\nParents: Datu Sumalanggak SITORUS and unknown", "size": 1},
+        {"name": " Tinggi Malela", "detail": "38921159 Tinggi Malela SITORUS\nBorn: ABT 1709\nParents: Datu Sumalanggak SITORUS and unknown", "children": [
+          {"name": " Pangondam", "detail": "72618144 Pangondam SITORUS\nBorn: ABT 1734\nParents: Tinggi Malela SITORUS and unknown", "children": [
+            {"name": " Purbatua", "detail": "82749446 Purbatua SITORUS\nBorn: ABT 1759\nParents: Pangondam SITORUS and unknown", "children": [
+              {"name": " Pubona Ni Onan", "detail": "8696676 Pubona Ni Onan SITORUS\nParents: Purbatua SITORUS and unknown", "size": 1},
+              {"name": " Pangondam", "detail": "39904082 Pangondam SITORUS\nParents: Purbatua SITORUS and unknown", "size": 1},
+              {"name": " Puniakbuttu (Punia Labuntu)", "detail": "15530060 Puniakbuttu (Punia Labuntu) SITORUS\nBorn: ABT 1784\nParents: Purbatua SITORUS and unknown", "children": [
+                {"name": " Puniambolas", "detail": "83907420 Puniambolas SITORUS\nBorn: ABT 1809\nParents: Puniakbuttu (Punia Labuntu) SITORUS and unknown", "size": 1},
+                {"name": " Pumora", "detail": "91506260 Pumora SITORUS\nBorn: ABT 1810\nParents: Puniakbuttu (Punia Labuntu) SITORUS and unknown", "children": [
+                  {"name": " Putumbu", "detail": "69305785 Putumbu SITORUS\nBorn: ABT 1835\nParents: Pumora SITORUS and unknown", "children": [
+                    {"name": " Panjomak (Punjomak)", "detail": "76271546 Panjomak (Punjomak) SITORUS\nBorn: ABT 1858\nParents: Putumbu SITORUS and unknown", "children": [
+                      {"name": " (Panjomak's son)", "detail": "44407230 (Panjomak's son) SITORUS\nBorn: ABT 1883\nParents: Panjomak (Punjomak) SITORUS and unknown", "children": [
+                        {"name": " (Amani Jason's father)", "detail": "32845400 (Amani Jason's father) SITORUS\nParents: (Panjomak's son) SITORUS and unknown", "children": [
+                          {"name": " Amani Jason", "detail": "39401880 Amani Jason SITORUS\nParents: (Amani Jason's father) SITORUS and unknown", "children": [
+                            {"name": " Jason", "detail": "75935952 Jason SITORUS\nParents: Amani Jason SITORUS and Nai Jason", "size": 1},
+                            {"name": " Amani Garugur", "detail": "83565578 Amani Garugur\nParents: Amani Jason SITORUS and Nai Jason", "children": [
+                              {"name": " Guntur", "detail": "85008470 Guntur SITORUS\nParents: Amani Garugur and Nai Sabam SIAHAAN", "children": [
+                                {"name": " (Guntur's daughter)", "detail": "88660399 (Guntur's daughter)\nParents: Guntur SITORUS and Pearly SAERANG", "size": 1},
+                                {"name": " (Guntur's daughter)", "detail": "25631593 (Guntur's daughter)\nParents: Guntur SITORUS and Pearly SAERANG", "size": 1},
+                                {"name": " (Guntur's daughter)", "detail": "99708388 (Guntur's daughter)\nParents: Guntur SITORUS and Pearly SAERANG", "size": 1},
+                                {"name": " (Guntur's son)", "detail": "69843900 (Guntur's son)\nParents: Guntur SITORUS and Pearly SAERANG", "size": 1}
+                              ]}
+                            ]},
+                            {"name": " Amani Sabam", "detail": "71953846 Amani Sabam SITORUS\nParents: Amani Jason SITORUS and Nai Jason", "children": [
+                              {"name": " Sabam", "detail": "27917847 Sabam SITORUS\nParents: Amani Sabam SITORUS and Nai Sabam SIAHAAN", "size": 1}
+                            ]}
+                          ]}
+                        ]},
+                        {"name": " (Amani Minar's father)", "detail": "72788498 (Amani Minar's father) SITORUS\nParents: (Panjomak's son) SITORUS and unknown", "children": [
+                          {"name": " Suppat", "detail": "69757135 Suppat SITORUS\nParents: (Amani Minar's father) SITORUS and unknown", "children": [
+                            {"name": " Toba James", "detail": "49832306 Toba James SITORUS\nParents: Suppat SITORUS and unknown", "size": 1},
+                            {"name": " Kosti", "detail": "99756778 Kosti SITORUS\nParents: Suppat SITORUS and unknown", "children": [
+                              {"name": " Roy David", "detail": "45610128 Roy David SARUMPAET\nParents: Raja Igel SARUMPAET and Kosti SITORUS", "children": [
+                                {"name": " Abigail", "detail": "27196687 Abigail SARUMPAET\nParents: Roy David SARUMPAET and Lasma TOBING", "size": 1},
+                                {"name": " Raja", "detail": "91270720 Raja SARUMPAET\nParents: Roy David SARUMPAET and Lasma TOBING", "size": 1},
+                                {"name": " Angelica", "detail": "11726815 Angelica SARUMPAET\nParents: Roy David SARUMPAET and Lasma TOBING", "size": 1}
+                              ]},
+                              {"name": " Moody", "detail": "57733710 Moody SARUMPAET\nParents: Raja Igel SARUMPAET and Kosti SITORUS", "size": 1},
+                              {"name": " Katy", "detail": "90541502 Katy SARUMPAET\nParents: Raja Igel SARUMPAET and Kosti SITORUS", "size": 1},
+                              {"name": " Elis", "detail": "96714923 Elis SARUMPAET\nParents: Raja Igel SARUMPAET and Kosti SITORUS", "size": 1}
+                            ]},
+                            {"name": " Nurlia", "detail": "47678700 Nurlia SITORUS\nParents: Suppat SITORUS and unknown", "size": 1},
+                            {"name": " Minar", "detail": "73400348 Minar SITORUS\nParents: Suppat SITORUS and unknown", "size": 1},
+                            {"name": " Tiru", "detail": "84675360 Tiru\nParents: Suppat SITORUS and unknown", "size": 1},
+                            {"name": " Rose", "detail": "44776666 Rose SITORUS\nParents: Suppat SITORUS and unknown", "size": 1},
+                            {"name": "Pdt. Nelson Pangaloan", "detail": "27776808 Nelson Pangaloan SITORUS\nParents: Suppat SITORUS and unknown", "children": [
+                              {"name": " Abraham Reysan", "detail": "38648843 Abraham Reysan SITORUS\nParents: Nelson Pangaloan SITORUS and unknown", "size": 1}
+                            ]},
+                            {"name": " Ruminta", "detail": "82281613 Ruminta SITORUS\nParents: Suppat SITORUS and unknown", "children": [
+                              {"name": " Freddy", "detail": "19730720 Freddy TAMPUBOLON\nParents: Burhan TAMPUBOLON and Ruminta SITORUS", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " (Gayus's father)", "detail": "22354971 (Gayus's father) SITORUS\nParents: (Amani Minar's father) SITORUS and unknown", "children": [
+                            {"name": " Gayus", "detail": "27957788 Gayus SITORUS\nParents: (Gayus's father) SITORUS and unknown", "children": [
+                              {"name": " Hermin", "detail": "51609983 Hermin SITORUS\nParents: Gayus SITORUS and unknown", "children": [
+                                {"name": " Robin", "detail": "45383375 Robin PASARIBU\nParents: Enda PASARIBU and Hermin SITORUS", "size": 1}
+                              ]},
+                              {"name": " Dongan", "detail": "32847892 Dongan SITORUS\nParents: Gayus SITORUS and unknown", "size": 1},
+                              {"name": " Charles", "detail": "8424342 Charles SITORUS\nParents: Gayus SITORUS and unknown", "size": 1}
+                            ]}
+                          ]}
+                        ]}
+                      ]}
+                    ]},
+                    {"name": " Pubatunahar", "detail": "43215128 Pubatunahar SITORUS\nBorn: ABT 1859\nParents: Putumbu SITORUS and unknown", "children": [
+                      {"name": " (Son of Pubatunahar)", "detail": "1866700 (Son of Pubatunahar) SITORUS\nBorn: ABT 1883\nParents: Pubatunahar SITORUS and unknown", "children": [
+                        {"name": " (Grandson of Pubatunahar)", "detail": "15003720 (Grandson of Pubatunahar) SITORUS\nParents: (Son of Pubatunahar) SITORUS and unknown", "size": 1}
+                      ]},
+                      {"name": " (Pubatunahar's son)", "detail": "72757952 (Pubatunahar's son) SITORUS\nBorn: ABT 1884\nParents: Pubatunahar SITORUS and unknown", "children": [
+                        {"name": " Pubottar", "detail": "60153546 Pubottar SITORUS\nBorn: ABT 1909\nParents: (Pubatunahar's son) SITORUS and unknown", "size": 1}
+                      ]}
+                    ]},
+                    {"name": " Ruma (Pangojur)", "detail": "20655480 Ruma (Pangojur) SITORUS\nBorn: ABT 1860\nParents: Putumbu SITORUS and unknown", "children": [
+                      {"name": " Simananggara (Raja Usia, Op Si Artia, Pallinging)", "detail": "38890322 Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS\nBorn: ABT 1885\nParents: Ruma (Pangojur) SITORUS and Ruma's Wife MANURUNG", "children": [
+                        {"name": " Nai Lotlot", "detail": "14222832 Nai Lotlot\nBorn: ABT 1907\nParents: Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS and (Simananggara's wife) SIRAIT", "children": [
+                          {"name": " Laksa", "detail": "61964952 Laksa SITORUS\nBorn: ABT 1932\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "children": [
+                            {"name": " Ramli", "detail": "80594442 Ramli SIRAIT\nParents: Amatimbul SIRAIT and Laksa SITORUS", "size": 1},
+                            {"name": " P. T.", "detail": "41197582 P. T. SIRAIT\nParents: Amatimbul SIRAIT and Laksa SITORUS", "children": [
+                              {"name": " Korlin Seprida", "detail": "90586421 Korlin Seprida SIAGIAN\nParents: (Korlin's father) SIAGIAN and P. T. SIRAIT", "size": 1}
+                            ]},
+                            {"name": " Timbul", "detail": "83446138 Timbul SIRAIT\nParents: Amatimbul SIRAIT and Laksa SITORUS", "size": 1}
+                          ]},
+                          {"name": " Nantaronggal", "detail": "92557153 Nantaronggal\nBorn: ABT 1933\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "children": [
+                            {"name": " Tialam", "detail": "11517548 Tialam MARPAUNG\nParents: (Tialam's father) MARPAUNG and Nantaronggal", "children": [
+                              {"name": " Marisi", "detail": "86968602 Marisi SITORUS\nParents: Robinson SITORUS and Tialam MARPAUNG", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Esa", "detail": "57566772 Esa MANURUNG\nBorn: ABT 1934\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "size": 1},
+                          {"name": " Dora", "detail": "59743281 Dora MANURUNG\nBorn: ABT 1935\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "size": 1},
+                          {"name": " Sinta", "detail": "9272877 Sinta MANURUNG\nBorn: ABT 1936\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "size": 1},
+                          {"name": " Hirim", "detail": "71659228 Hirim MANURUNG\nBorn: ABT 1937\nParents: Ompu Timbul MANURUNG and Nai Lotlot", "size": 1}
+                        ]},
+                        {"name": " Nai Artia", "detail": "49375450 Nai Artia\nBorn: ABT 1908\nParents: Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS and (Simananggara's wife) SIRAIT", "children": [
+                          {"name": " Artia", "detail": "87849850 Artia MUNTHE\nBorn: ABT 1933\nParents: (Sortali's husband) MUNTHE and Nai Artia", "size": 1}
+                        ]},
+                        {"name": " Nai Intan", "detail": "5992306 Nai Intan\nBorn: ABT 1909\nParents: Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS and (Simananggara's wife) SIRAIT", "size": 1},
+                        {"name": " Ria Mardolimar", "detail": "94968062 Ria Mardolimar SITORUS\nBorn: ABT 1910\nParents: Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS and (Simananggara's wife) SIRAIT", "children": [
+                          {"name": " Leries Nurhayati", "detail": "91155140 Leries Nurhayati SITORUS\nBorn: 1941/03/10\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan", "detail": "71134000 Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO\nBorn: 1965/08/28\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Graziella Vaniarani Deborah Sabatini", "detail": "19780944 Graziella Vaniarani Deborah Sabatini SIBORO\nBorn: 1995/04/29\nParents: Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO and Unita SAGALA", "size": 1},
+                              {"name": " Uriel Satyadeva", "detail": "48978816 Uriel Satyadeva SIBORO\nBorn: 1999/06/05\nParents: Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO and Unita SAGALA", "size": 1}
+                            ]},
+                            {"name": " Jayne Carmelia Rumondang", "detail": "24889122 Jayne Carmelia Rumondang SIBORO\nBorn: 1967/05/09\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Charly Geraeldo Melvern Parondian", "detail": "15448385 Charly Geraeldo Melvern Parondian SINAGA\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1},
+                              {"name": " Grimaldy Pardomuan Dawn Firstoney", "detail": "17558150 Grimaldy Pardomuan Dawn Firstoney SINAGA\nBorn: 1993/08/21\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1},
+                              {"name": " Yolanda Jesslyn Tiorida", "detail": "78115207 Yolanda Jesslyn Tiorida SINAGA\nBorn: 2004/05/29\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1}
+                            ]},
+                            {"name": " Christian Hamonangan", "detail": "78170703 Christian Hamonangan SIBORO\nBorn: 1968/12/03\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Chloudya Julia Emmanuelle Pretty", "detail": "92917979 Chloudya Julia Emmanuelle Pretty SIBORO\nBorn: 1998/07/04\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1},
+                              {"name": " Charlize Sakiko Deqita Mayhasian", "detail": "66731458 Charlize Sakiko Deqita Mayhasian SIBORO\nBorn: 2003/05/02\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1},
+                              {"name": " Christy Julieta Nobuko Tiarku", "detail": "58743083 Christy Julieta Nobuko Tiarku SIBORO\nBorn: 2007/07/25\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1}
+                            ]},
+                            {"name": " Arnold Pandapotan", "detail": "32917432 Arnold Pandapotan SIBORO\nBorn: 1972/04/25\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " かなそもるりあな", "detail": "52606728 かなそもるりあな しぼろ\nBorn: 2003/09/26\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1},
+                              {"name": " 理佳ロウリナ", "detail": "18211264 理佳ロウリナ シボロ\nBorn: 2006/01/05\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1},
+                              {"name": " 聖佳ロハナ", "detail": "53221919 聖佳ロハナ シボロ\nBorn: 2010/02/20\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1}
+                            ]},
+                            {"name": " Shirley Tumiar", "detail": "25942016 Shirley Tumiar SIBORO\nBorn: 1973/10/04\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Raul Raphael Jonathan Togarma", "detail": "72055545 Raul Raphael Jonathan Togarma SIMALANGO\nBorn: 2004/09/23\nParents: Oswald Semuel SIMALANGO and Shirley Tumiar SIBORO", "size": 1},
+                              {"name": " Ravelino Vabregas Pangondian", "detail": "52525706 Ravelino Vabregas Pangondian SIMALANGO\nBorn: 2008/12/03\nParents: Oswald Semuel SIMALANGO and Shirley Tumiar SIBORO", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Benget", "detail": "66596632 Benget SITORUS\nBorn: 1944\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Mangindar", "detail": "60702616 Mangindar SIBARANI\nBorn: 1963\nParents: Urat SIBARANI and Benget SITORUS", "size": 1},
+                            {"name": " Elisabeth", "detail": "57442740 Elisabeth SIBARANI\nBorn: ABT 1964\nParents: Urat SIBARANI and Benget SITORUS", "size": 1},
+                            {"name": " Remy", "detail": "65523677 Remy SIBARANI\nBorn: ABT 1965\nParents: Urat SIBARANI and Benget SITORUS", "size": 1},
+                            {"name": " Pangibulan", "detail": "67954948 Pangibulan SIBARANI\nBorn: ABT 1966\nParents: Urat SIBARANI and Benget SITORUS", "size": 1},
+                            {"name": " Mangerbang", "detail": "31228807 Mangerbang SIBARANI\nBorn: ABT 1967\nParents: Urat SIBARANI and Benget SITORUS", "size": 1}
+                          ]},
+                          {"name": " Tihar Raja Mangalela", "detail": "93713180 Tihar Raja Mangalela SITORUS\nBorn: 1947\nDied: 2010/08/08\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Dompak", "detail": "93673996 Dompak SITORUS\nBorn: 1968/08/27\nParents: Tihar Raja Mangalela SITORUS and Sannaria NAPITUPULU", "children": [
+                              {"name": " Nico Febri", "detail": "56728331 Nico Febri SITORUS\nBorn: 1996/02/27\nParents: Dompak SITORUS and Suarni SIRAIT", "size": 1},
+                              {"name": " Nani Feronica", "detail": "94276278 Nani Feronica SITORUS\nBorn: 1998/03/09\nParents: Dompak SITORUS and Suarni SIRAIT", "size": 1},
+                              {"name": " Tiara Monita", "detail": "20825178 Tiara Monita SITORUS\nBorn: 2002/01/07\nParents: Dompak SITORUS and Suarni SIRAIT", "size": 1}
+                            ]},
+                            {"name": " Nelson", "detail": "96395666 Nelson SITORUS\nBorn: 1970\nParents: Tihar Raja Mangalela SITORUS and Sannaria NAPITUPULU", "children": [
+                              {"name": " Hadi Susanto", "detail": "85153350 Hadi Susanto SITORUS\nBorn: ABT 1995\nParents: Nelson SITORUS and Ritawati SIAHAAN", "size": 1},
+                              {"name": " Novia", "detail": "89038496 Novia SITORUS\nBorn: ABT 1996\nParents: Nelson SITORUS and Ritawati SIAHAAN", "size": 1},
+                              {"name": " Alfonso", "detail": "91072628 Alfonso SITORUS\nBorn: ABT 1997\nParents: Nelson SITORUS and Ritawati SIAHAAN", "size": 1},
+                              {"name": " Andriano", "detail": "23368661 Andriano SITORUS\nBorn: ABT 1998\nParents: Nelson SITORUS and Ritawati SIAHAAN", "size": 1}
+                            ]},
+                            {"name": " Evalyna Patrechia", "detail": "41952939 Evalyna Patrechia SITORUS\nBorn: 1974\nParents: Tihar Raja Mangalela SITORUS and Elsje Ria TAMBUNAN", "children": [
+                              {"name": " Anastasia Hilda Mayora", "detail": "73297600 Anastasia Hilda Mayora SIMAMORA\nBorn: ABT 1999\nParents: Pontas H. SIMAMORA and Evalyna Patrechia SITORUS", "size": 1},
+                              {"name": " Andrew H. M. Ezer", "detail": "94786042 Andrew H. M. Ezer SIMAMORA\nBorn: ABT 2000\nParents: Pontas H. SIMAMORA and Evalyna Patrechia SITORUS", "size": 1}
+                            ]},
+                            {"name": " Efendi Marihot", "detail": "70260412 Efendi Marihot SITORUS\nBorn: 1976\nParents: Tihar Raja Mangalela SITORUS and Elsje Ria TAMBUNAN", "children": [
+                              {"name": " Maria Thalitha", "detail": "50113337 Maria Thalitha SITORUS\nBorn: 2010\nParents: Efendi Marihot SITORUS and (Efendi's wife)", "size": 1},
+                              {"name": " Gabriel Christian Tihar Mangalela", "detail": "38523872 Gabriel Christian Tihar Mangalela SITORUS\nBorn: 2014\nParents: Efendi Marihot SITORUS and (Efendi's wife)", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Anit Friska", "detail": "58646371 Anit Friska SITORUS\nBorn: 1950\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Tumpal", "detail": "46628380 Tumpal SIRAIT\nBorn: 1970\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Andartian", "detail": "23899461 Andartian SIRAIT\nBorn: 2001\nParents: Tumpal SIRAIT and Evi Sulaesih SITORUS", "size": 1},
+                              {"name": " Monica Hanayuki", "detail": "30952154 Monica Hanayuki SIRAIT\nBorn: 2005\nParents: Tumpal SIRAIT and Evi Sulaesih SITORUS", "size": 1}
+                            ]},
+                            {"name": " Juliana Dame", "detail": "6683935 Juliana Dame SIRAIT\nBorn: ABT 1972\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Ian Alpharidho", "detail": "15707296 Ian Alpharidho SITORUS\nBorn: ABT 1995\nParents: Hobby SITORUS and Juliana Dame SIRAIT", "size": 1},
+                              {"name": " Ivana Winola", "detail": "29720438 Ivana Winola SITORUS\nBorn: ABT 1998\nParents: Hobby SITORUS and Juliana Dame SIRAIT", "size": 1},
+                              {"name": " Grace Cynthia", "detail": "86747868 Grace Cynthia SITORUS\nBorn: ABT 2003\nParents: Hobby SITORUS and Juliana Dame SIRAIT", "size": 1},
+                              {"name": " William Gilbert", "detail": "82270010 William Gilbert SITORUS\nBorn: ABT 2008\nParents: Hobby SITORUS and Juliana Dame SIRAIT", "size": 1}
+                            ]},
+                            {"name": " Charles Donerzon", "detail": "46659387 Charles Donerzon SIRAIT\nBorn: 1974\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Catherine Uli Magdalena", "detail": "91230804 Catherine Uli Magdalena SIRAIT\nBorn: 2009\nParents: Charles Donerzon SIRAIT and Tiurlan Ria Purwaningsih SIANTURI", "size": 1},
+                              {"name": " Timothy Bonar Adventio", "detail": "69325696 Timothy Bonar Adventio SIRAIT\nBorn: 2010\nParents: Charles Donerzon SIRAIT and Tiurlan Ria Purwaningsih SIANTURI", "size": 1}
+                            ]},
+                            {"name": " Nancy", "detail": "91411810 Nancy SIRAIT\nBorn: 1976\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Aditya", "detail": "62055616 Aditya SIMAMARTA\nBorn: 2004\nParents: Robinson SIMAMARTA and Nancy SIRAIT", "size": 1},
+                              {"name": " Ruth", "detail": "26325232 Ruth SIMAMARTA\nBorn: 2012\nParents: Robinson SIMAMARTA and Nancy SIRAIT", "size": 1},
+                              {"name": " Reno", "detail": "27073023 Reno SIMAMARTA\nBorn: 2016\nParents: Robinson SIMAMARTA and Nancy SIRAIT", "size": 1}
+                            ]},
+                            {"name": " Ranto", "detail": "81462228 Ranto SIRAIT\nBorn: 1980\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Virdho Sebastian", "detail": "66279484 Virdho Sebastian SIRAIT\nBorn: 2006\nParents: Ranto SIRAIT and Jenny SIMARMATA", "size": 1},
+                              {"name": " Michael", "detail": "47343348 Michael SIRAIT\nBorn: 2013\nParents: Ranto SIRAIT and Jenny SIMARMATA", "size": 1},
+                              {"name": " Kenzo", "detail": "2690966 Kenzo SIRAIT\nBorn: 2015\nParents: Ranto SIRAIT and Jenny SIMARMATA", "size": 1}
+                            ]},
+                            {"name": " Mangintua", "detail": "67975176 Mangintua SIRAIT\nBorn: 1983\nParents: Rein August SIRAIT and Anit Friska SITORUS", "children": [
+                              {"name": " Laura Septiyani", "detail": "85801060 Laura Septiyani SIRAIT\nBorn: 2003\nParents: Mangintua SIRAIT and SIRAIT", "size": 1},
+                              {"name": " Irene Elsa Claudya Angriani", "detail": "20250876 Irene Elsa Claudya Angriani SIRAIT\nBorn: 2005\nParents: Mangintua SIRAIT and SIRAIT", "size": 1},
+                              {"name": " Agnes Eklesia Miori Marito", "detail": "79289554 Agnes Eklesia Miori Marito SIRAIT\nBorn: 2011\nParents: Mangintua SIRAIT and SIRAIT", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Tundun Mangasi", "detail": "16445711 Tundun Mangasi SITORUS\nBorn: 1952/07/01\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Evi Sulaesih", "detail": "19246206 Evi Sulaesih SITORUS\nBorn: ABT 1970\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+
+                            ]},
+                            {"name": " Bangun", "detail": "42087424 Bangun SITORUS\nBorn: 1975/06/06\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+                              {"name": " Yovantri Salomo", "detail": "73147576 Yovantri Salomo SITORUS\nBorn: ABT 2000\nParents: Bangun SITORUS and Saurma PASARIBU", "size": 1},
+                              {"name": " Ansel", "detail": "60521927 Ansel SITORUS\nBorn: ABT 2001\nParents: Bangun SITORUS and Saurma PASARIBU", "size": 1}
+                            ]},
+                            {"name": " Master Asrol", "detail": "87371604 Master Asrol SITORUS\nBorn: 1976/11/27\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+                              {"name": " Anadita", "detail": "36935139 Anadita SITORUS\nParents: Master Asrol SITORUS and Rianti MANURUNG", "size": 1},
+                              {"name": " Ares", "detail": "65913788 Ares SITORUS\nParents: Master Asrol SITORUS and Rianti MANURUNG", "size": 1},
+                              {"name": " Astri", "detail": "7632476 Astri SITORUS\nBorn: ABT 2001\nParents: Master Asrol SITORUS and Rianti MANURUNG", "size": 1}
+                            ]},
+                            {"name": " Antony", "detail": "29978500 Antony SITORUS\nBorn: 1978/11/19\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+                              {"name": " Margaret", "detail": "80674856 Margaret SITORUS\nBorn: ABT 2003\nParents: Antony SITORUS and (Antony's wife) GURNING", "size": 1},
+                              {"name": " Joshua", "detail": "38216914 Joshua SITORUS\nBorn: ABT 2004\nParents: Antony SITORUS and (Antony's wife) GURNING", "size": 1},
+                              {"name": " Ruth", "detail": "49798674 Ruth SITORUS\nBorn: ABT 2005\nParents: Antony SITORUS and (Antony's wife) GURNING", "size": 1}
+                            ]},
+                            {"name": " Elman", "detail": "86473845 Elman SITORUS\nBorn: 1980/03/14\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+                              {"name": " Torang", "detail": "95400840 Torang SITORUS\nBorn: ABT 2005\nParents: Elman SITORUS and Elly MANURUNG", "size": 1},
+                              {"name": " Ajam", "detail": "34826601 Ajam SITORUS\nBorn: ABT 2006\nParents: Elman SITORUS and Elly MANURUNG", "size": 1}
+                            ]},
+                            {"name": " Defi", "detail": "31178224 Defi SITORUS\nBorn: 1984/02/24\nParents: Tundun Mangasi SITORUS and Loide GURNING", "children": [
+                              {"name": " Ramosta", "detail": "80398308 Ramosta HUTAGAOL\nParents: Olwin HUTAGAOL and Defi SITORUS", "size": 1},
+                              {"name": " Tamaro", "detail": "13178535 Tamaro SITORUS\nParents: Olwin HUTAGAOL and Defi SITORUS", "size": 1},
+                              {"name": " Esthereina Noverina Tiarma", "detail": "25839257 Esthereina Noverina Tiarma HUTAGAOL\nBorn: 2011/11/01\nParents: Olwin HUTAGAOL and Defi SITORUS", "size": 1}
+                            ]},
+                            {"name": " Desni", "detail": "19934432 Desni SITORUS\nBorn: 1987/02/12\nParents: Tundun Mangasi SITORUS and Loide GURNING", "size": 1}
+                          ]},
+                          {"name": " Herlyna Sitiawan", "detail": "12257088 Herlyna Sitiawan SITORUS\nBorn: 1955/01/31\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Marusaha Tonny", "detail": "70661256 Marusaha Tonny SILAEN\nBorn: 1975/06/13\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "children": [
+                              {"name": " Samuel Sihar Kristian", "detail": "46336513 Samuel Sihar Kristian SILAEN\nBorn: 2009/07/11\nParents: Marusaha Tonny SILAEN and Seiky Herlina SITORUS", "size": 1},
+                              {"name": " Sarah Viona Angelica", "detail": "57948665 Sarah Viona Angelica SILAEN\nBorn: 2011/04/09\nParents: Marusaha Tonny SILAEN and Seiky Herlina SITORUS", "size": 1}
+                            ]},
+                            {"name": " Novita Elia Rosmawaty", "detail": "68009714 Novita Elia Rosmawaty SILAEN\nBorn: 1977/06/03\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "children": [
+                              {"name": " Glenita Taruli Christiana Paulana", "detail": "86582367 Glenita Taruli Christiana Paulana HUTABARAT\nBorn: 2005/05/14\nParents: Marlen Dayan HUTABARAT and Novita Elia Rosmawaty SILAEN", "size": 1},
+                              {"name": " Moses Dayano Christian Pangihutan", "detail": "87105686 Moses Dayano Christian Pangihutan HUTABARAT\nBorn: 2006/07/22\nParents: Marlen Dayan HUTABARAT and Novita Elia Rosmawaty SILAEN", "size": 1},
+                              {"name": " Savannah Putri Maritauli", "detail": "3120324 Savannah Putri Maritauli HUTABARAT\nBorn: 2013/03/02\nParents: Marlen Dayan HUTABARAT and Novita Elia Rosmawaty SILAEN", "size": 1}
+                            ]},
+                            {"name": " Maju Jonson", "detail": "16048912 Maju Jonson SILAEN\nBorn: 1979/04/20\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "children": [
+                              {"name": " Aurelya Intan Elisabeth", "detail": "50452510 Aurelya Intan Elisabeth SILAEN\nBorn: 2009/09/23\nParents: Maju Jonson SILAEN and Herlin Tyroin SITORUS", "size": 1}
+                            ]},
+                            {"name": " Morgan Frelly", "detail": "29968611 Morgan Frelly SILAEN\nBorn: 1983/04/09\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "children": [
+                              {"name": " Rappani Artha Abigail", "detail": "79228236 Rappani Artha Abigail SILAEN\nBorn: 2012/03/02\nParents: Morgan Frelly SILAEN and Chandrawati GULTOM", "size": 1},
+                              {"name": " Kairos Yedija", "detail": "91786560 Kairos Yedija SILAEN\nBorn: 2014/01/04\nParents: Morgan Frelly SILAEN and Chandrawati GULTOM", "size": 1}
+                            ]},
+                            {"name": " Nursanti Martaida", "detail": "29084960 Nursanti Martaida SILAEN\nBorn: 1985/07/31\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "size": 1},
+                            {"name": " Enny Mariance", "detail": "93641525 Enny Mariance SILAEN\nBorn: 1987/06/07\nParents: Pitua Saut Mangoloi SILAEN and Herlyna Sitiawan SITORUS", "children": [
+                              {"name": " Jeremiah Albert Godwin", "detail": "59803775 Jeremiah Albert Godwin NAINGGOLAN\nBorn: 2014/12/11\nParents: Jefkin NAINGGOLAN and Enny Mariance SILAEN", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Rose Nurfi", "detail": "13727020 Rose Nurfi SITORUS\nBorn: 1960\nParents: Ria Mardolimar SITORUS and Hanna MANURUNG", "children": [
+                            {"name": " Dhany", "detail": "92176768 Dhany IRAWAN\nBorn: 1982/03/20\nParents: Gunadi IRAWAN and Rose Nurfi SITORUS", "children": [
+                              {"name": " Peter Imanuel William", "detail": "49625124 Peter Imanuel William IRAWAN\nBorn: 2010\nParents: Dhany IRAWAN and Diana LIOGU", "size": 1},
+                              {"name": " Melody Dhinda Priscilla", "detail": "84878630 Melody Dhinda Priscilla IRAWAN\nBorn: 2013\nParents: Dhany IRAWAN and Diana LIOGU", "size": 1}
+                            ]},
+                            {"name": " Fani", "detail": "23163500 Fani IRAWAN\nBorn: 1983\nParents: Gunadi IRAWAN and Rose Nurfi SITORUS", "size": 1},
+                            {"name": " Vonny", "detail": "23979008 Vonny IRAWAN\nBorn: 1986/12/13\nParents: Gunadi IRAWAN and Rose Nurfi SITORUS", "children": [
+                              {"name": " Joanna Eunike Annabelle", "detail": "54134952 Joanna Eunike Annabelle ARITONANG\nBorn: 2014/05/15\nParents: Michael Monang Silvester ARITONANG and Vonny IRAWAN", "size": 1}
+                            ]}
+                          ]}
+                        ]},
+                        {"name": " Nai Humala", "detail": "81445120 Nai Humala\nBorn: ABT 1911\nParents: Simananggara (Raja Usia, Op Si Artia, Pallinging) SITORUS and (Simananggara's wife) SIRAIT", "children": [
+                          {"name": " Humbil", "detail": "29116771 Humbil HUTAGAOL\nParents: (Hantar's husband) HUTAGAOL and Nai Humala", "children": [
+                            {"name": " Olwin", "detail": "76208648 Olwin HUTAGAOL\nParents: Humbil HUTAGAOL and unknown", "children": [
+
+                            ]}
+                          ]}
+                        ]}
+                      ]},
+                      {"name": " Aning", "detail": "75260696 Aning SITORUS\nBorn: ABT 1886\nParents: Ruma (Pangojur) SITORUS and Ruma's Wife MANURUNG", "size": 1},
+                      {"name": " Sangap", "detail": "17851858 Sangap SITORUS\nBorn: ABT 1887\nParents: Ruma (Pangojur) SITORUS and Ruma's Wife MANURUNG", "children": [
+                        {"name": " (Mutiara's father)", "detail": "41549216 (Mutiara's father) SITORUS\nParents: Sangap SITORUS and unknown", "children": [
+                          {"name": " Mutiara", "detail": "94126596 Mutiara SITORUS\nParents: (Mutiara's father) SITORUS and unknown", "children": [
+                            {"name": " Gideon", "detail": "63897510 Gideon TAMBUNAN\nParents: (Partoko Sinar Porsea) TAMBUNAN and Mutiara SITORUS", "size": 1},
+                            {"name": " Joshua", "detail": "99009585 Joshua TAMBUNAN\nParents: (Partoko Sinar Porsea) TAMBUNAN and Mutiara SITORUS", "size": 1}
+                          ]}
+                        ]}
+                      ]},
+                      {"name": " Tuang", "detail": "37191752 Tuang SITORUS\nBorn: ABT 1888\nParents: Ruma (Pangojur) SITORUS and Ruma's Wife MANURUNG", "size": 1}
+                    ]}
+                  ]},
+                  {"name": " Puronggur", "detail": "77507378 Puronggur SITORUS\nBorn: ABT 1836\nParents: Pumora SITORUS and unknown", "size": 1}
+                ]}
+              ]}
+            ]}
+          ]}
+        ]}
+      ]}
+    ]}
+  ]},
+  {"name": " Dori", "detail": "84854552 Dori\nBorn: ABT 1637\nParents: Raja Toga Sitorus and Pinta Omas Palangki SAGALA", "children": [
+    {"name": " Raja Ijulu", "detail": "1527451 Raja Ijulu SITORUS\nParents: Dori and unknown", "children": [
+      {"name": " Raja Silamosik", "detail": "62825156 Raja Silamosik SITORUS\nParents: Raja Ijulu SITORUS and unknown", "children": [
+        {"name": " Raja Ompu Hulambu", "detail": "56604504 Raja Ompu Hulambu SITORUS\nParents: Raja Silamosik SITORUS and (Raja Silamosik's wife) SITOMPUL", "children": [
+          {"name": " Raja Randuk", "detail": "74270673 Raja Randuk SITORUS\nParents: Raja Ompu Hulambu SITORUS and unknown", "children": [
+            {"name": " Raja Ompu Tahisabungan", "detail": "71671984 Raja Ompu Tahisabungan SITORUS\nParents: Raja Randuk SITORUS and (Raja Randuk's wife) NAINGGOLAN", "children": [
+              {"name": " Raja Parlogon", "detail": "8553456 Raja Parlogon SITORUS\nParents: Raja Ompu Tahisabungan SITORUS and (Raja Ompu Tahisabungan's wife) NAINGGOLAN", "children": [
+                {"name": " Raja Runggu Malela", "detail": "61135004 Raja Runggu Malela SITORUS\nParents: Raja Parlogon SITORUS and (Raja Parlogon's wife) SITOMPUL", "children": [
+                  {"name": " Panglima Jogo", "detail": "46991556 Panglima Jogo SITORUS\nParents: Raja Runggu Malela SITORUS and (Raja Runggu Malela's wife) SITOMPUL", "children": [
+                    {"name": " Djamin", "detail": "22759786 Djamin SITORUS\nParents: Panglima Jogo SITORUS and (Panglima Jogo's first wife) SINURAT", "children": [
+                      {"name": " Julianus", "detail": "15928504 Julianus SITORUS\nParents: Djamin SITORUS and R. DOLOKSARIBU", "children": [
+                        {"name": " Erison", "detail": "96968819 Erison SITORUS\nParents: Julianus SITORUS and R. G. TAMPUBOLON", "size": 1}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]}
+            ]}
+          ]}
+        ]}
+      ]}
+    ]},
+    {"name": " Babiat Sosunggulon", "detail": "66877726 Babiat Sosunggulon SITORUS\nBorn: ABT 1662\nParents: Dori and unknown", "children": [
+      {"name": " Namora Sininta", "detail": "30279425 Namora Sininta\nParents: Babiat Sosunggulon SITORUS and unknown", "size": 1},
+      {"name": " Raja Sibatu", "detail": "88158817 Raja Sibatu\nParents: Babiat Sosunggulon SITORUS and unknown", "size": 1},
+      {"name": " Patuan Nagari", "detail": "52953701 Patuan Nagari\nParents: Babiat Sosunggulon SITORUS and unknown", "size": 1},
+      {"name": " Patuan Namora", "detail": "44715665 Patuan Namora\nParents: Babiat Sosunggulon SITORUS and unknown", "size": 1},
+      {"name": " Raja Ijolo", "detail": "57244906 Raja Ijolo SITORUS\nBorn: ABT 1687\nParents: Babiat Sosunggulon SITORUS and unknown", "children": [
+        {"name": " Solim Sodungdungon", "detail": "50986744 Solim Sodungdungon\nBorn: ABT 1712\nParents: Raja Ijolo SITORUS and unknown", "children": [
+          {"name": " Boru Naohot", "detail": "53587966 Boru Naohot SITORUS\nBorn: ABT 1687\nParents: Solim Sodungdungon and unknown", "size": 1},
+          {"name": " Raja Gunung", "detail": "80999568 Raja Gunung SITORUS\nBorn: ABT 1688\nParents: Solim Sodungdungon and unknown", "size": 1},
+          {"name": " Raja Liang", "detail": "38714143 Raja Liang SITORUS\nBorn: ABT 1689\nParents: Solim Sodungdungon and unknown", "children": [
+            {"name": " Raja Sitorjok", "detail": "64137232 Raja Sitorjok SITORUS\nParents: Raja Liang SITORUS and unknown", "size": 1},
+            {"name": " Pu Raup", "detail": "24272296 Pu Raup SITORUS\nParents: Raja Liang SITORUS and unknown", "size": 1},
+            {"name": " Pandahar", "detail": "37288224 Pandahar SITORUS\nParents: Raja Liang SITORUS and unknown", "children": [
+              {"name": " Pu Raja Gaja", "detail": "83377722 Pu Raja Gaja SITORUS\nParents: Pandahar SITORUS and unknown", "size": 1},
+              {"name": " Pu Sauangin", "detail": "14195648 Pu Sauangin SITORUS\nParents: Pandahar SITORUS and unknown", "children": [
+                {"name": " Ompu Sibatulan", "detail": "43034151 Ompu Sibatulan\nParents: Pu Sauangin SITORUS and unknown", "children": [
+                  {"name": " Juara Nabolon", "detail": "11081822 Juara Nabolon SITORUS\nParents: Ompu Sibatulan and unknown", "children": [
+                    {"name": " Ompu Buntulan", "detail": "49638476 Ompu Buntulan\nParents: Juara Nabolon SITORUS and unknown", "size": 1},
+                    {"name": " Bindu Raja", "detail": "38345088 Bindu Raja\nParents: Juara Nabolon SITORUS and unknown", "children": [
+                      {"name": " Patualan", "detail": "16269079 Patualan SITORUS\nParents: Bindu Raja and unknown", "size": 1},
+                      {"name": " Sori Monggu", "detail": "24038128 Sori Monggu SITORUS\nParents: Bindu Raja and unknown", "size": 1},
+                      {"name": " Partimpuan", "detail": "73608297 Partimpuan SITORUS\nParents: Bindu Raja and unknown", "children": [
+                        {"name": " Pangaga", "detail": "8351109 Pangaga SITORUS\nParents: Partimpuan SITORUS and unknown", "children": [
+                          {"name": " Ompu Simopul", "detail": "77350354 Ompu Simopul SITORUS\nParents: Pangaga SITORUS and unknown", "size": 1}
+                        ]},
+                        {"name": " Pangojur", "detail": "21151968 Pangojur SITORUS\nParents: Partimpuan SITORUS and unknown", "children": [
+                          {"name": " Ompu Sitoman", "detail": "85686767 Ompu Sitoman SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Silintong", "detail": "12946634 Ompu Silintong SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Tinggi", "detail": "63880585 Ompu Tinggi SITORUS\nParents: Pangojur SITORUS and unknown", "children": [
+                            {"name": "Pdt. Ompu Demak", "detail": "49068148 Ompu Demak\nParents: Ompu Tinggi SITORUS and unknown", "children": [
+                              {"name": " Tigor", "detail": "27080220 Tigor SITORUS\nParents: Ompu Demak and SITORUS", "size": 1},
+                              {"name": " Ompu Ruth", "detail": "36904772 Ompu Ruth\nParents: Ompu Demak and SITORUS", "children": [
+                                {"name": " Amani Nanda", "detail": "9249792 Amani Nanda\nParents: Ompu Ruth and unknown", "children": [
+                                  {"name": " Ananda Phileein", "detail": "65852853 Ananda Phileein SITORUS\nParents: Amani Nanda and SITORUS", "size": 1}
+                                ]},
+                                {"name": " Amani Ruth", "detail": "996808 Amani Ruth\nParents: Ompu Ruth and unknown", "children": [
+                                  {"name": " Ignatius", "detail": "76803764 Ignatius SITORUS\nParents: Amani Ruth and SITORUS", "size": 1}
+                                ]},
+                                {"name": " Victor M.", "detail": "17720352 Victor M. SITORUS\nParents: Ompu Ruth and unknown", "size": 1}
+                              ]},
+                              {"name": " Ompu Pretesia", "detail": "33760216 Ompu Pretesia\nParents: Ompu Demak and SITORUS", "children": [
+                                {"name": " Hendro", "detail": "59252430 Hendro SITORUS\nParents: Ompu Pretesia and unknown", "size": 1},
+                                {"name": " Bambang", "detail": "48662942 Bambang SITORUS\nParents: Ompu Pretesia and unknown", "size": 1},
+                                {"name": " Leo", "detail": "52140336 Leo SITORUS\nParents: Ompu Pretesia and unknown", "size": 1}
+                              ]},
+                              {"name": " David", "detail": "72533260 David SITORUS\nParents: Ompu Demak and SITORUS", "size": 1}
+                            ]},
+                            {"name": " Ompu Silungguk", "detail": "11842432 Ompu Silungguk\nParents: Ompu Tinggi SITORUS and unknown", "children": [
+                              {"name": " Jansen", "detail": "20440432 Jansen SITORUS\nParents: Ompu Silungguk and unknown", "size": 1},
+                              {"name": " Saibun", "detail": "11752170 Saibun SITORUS\nParents: Ompu Silungguk and unknown", "size": 1},
+                              {"name": " Koster", "detail": "11442688 Koster SITORUS\nParents: Ompu Silungguk and unknown", "size": 1},
+                              {"name": " Edward", "detail": "82089116 Edward SITORUS\nParents: Ompu Silungguk and unknown", "size": 1}
+                            ]},
+                            {"name": " Ompu Simartua", "detail": "53662908 Ompu Simartua\nParents: Ompu Tinggi SITORUS and unknown", "size": 1}
+                          ]},
+                          {"name": " Ompu Simamondang", "detail": "63042490 Ompu Simamondang SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Sibosar", "detail": "81654382 Ompu Sibosar SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Lintong", "detail": "91956387 Ompu Lintong SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1},
+                          {"name": " Ompu Sibaginda", "detail": "63693858 Ompu Sibaginda SITORUS\nParents: Pangojur SITORUS and unknown", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Soripada", "detail": "81176610 Soripada SITORUS\nParents: Bindu Raja and unknown", "size": 1}
+                    ]},
+                    {"name": " Pu Sauangin", "detail": "13062406 Pu Sauangin SITORUS\nParents: Juara Nabolon SITORUS and unknown", "children": [
+                      {"name": " Pu Darodon", "detail": "55227303 Pu Darodon SITORUS\nParents: Pu Sauangin SITORUS and unknown", "children": [
+                        {"name": " Raja Huta", "detail": "56297560 Raja Huta SITORUS\nParents: Pu Darodon SITORUS and unknown", "size": 1},
+                        {"name": " Hasan", "detail": "61238576 Hasan SITORUS\nParents: Pu Darodon SITORUS and unknown", "size": 1},
+                        {"name": " Panus", "detail": "20080182 Panus\nParents: Pu Darodon SITORUS and unknown", "children": [
+                          {"name": " German", "detail": "57544876 German SITORUS\nParents: Panus and unknown", "children": [
+                            {"name": " Cyrus", "detail": "19987792 Cyrus SITORUS\nParents: German SITORUS and unknown", "size": 1},
+                            {"name": " Solo", "detail": "74532632 Solo SITORUS\nParents: German SITORUS and unknown", "size": 1},
+                            {"name": " Punguan", "detail": "87661125 Punguan SITORUS\nParents: German SITORUS and unknown", "size": 1},
+                            {"name": " Pahotan", "detail": "42372082 Pahotan SITORUS\nParents: German SITORUS and unknown", "size": 1},
+                            {"name": " Rony", "detail": "75838681 Rony SITORUS\nParents: German SITORUS and unknown", "children": [
+                              {"name": " Sanjaya", "detail": "46235734 Sanjaya SITORUS\nParents: Rony SITORUS and unknown", "size": 1},
+                              {"name": " Grady William", "detail": "7212630 Grady William SITORUS\nParents: Rony SITORUS and unknown", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Gaponi", "detail": "83748575 Gaponi SITORUS\nParents: Panus and unknown", "size": 1}
+                        ]},
+                        {"name": " Giang", "detail": "85500296 Giang SITORUS\nParents: Pu Darodon SITORUS and unknown", "size": 1}
+                      ]},
+                      {"name": " Pandahar", "detail": "84716099 Pandahar SITORUS\nParents: Pu Sauangin SITORUS and unknown", "size": 1},
+                      {"name": " Pu Batu Nabolon", "detail": "59460498 Pu Batu Nabolon SITORUS\nParents: Pu Sauangin SITORUS and unknown", "size": 1},
+                      {"name": " Pu Batulan", "detail": "74182904 Pu Batulan SITORUS\nParents: Pu Sauangin SITORUS and unknown", "size": 1}
+                    ]}
+                  ]}
+                ]},
+                {"name": " Ompu Datu Narnar", "detail": "82050288 Ompu Datu Narnar SITORUS\nParents: Pu Sauangin SITORUS and unknown", "size": 1},
+                {"name": " Batu Sulung", "detail": "49099012 Batu Sulung\nParents: Pu Sauangin SITORUS and unknown", "size": 1}
+              ]},
+              {"name": " Pu Tinodul", "detail": "27528808 Pu Tinodul\nParents: Pandahar SITORUS and unknown", "size": 1}
+            ]}
+          ]},
+          {"name": " Raja Soulangon", "detail": "19203 Raja Soulangon\nBorn: ABT 1690\nParents: Solim Sodungdungon and unknown", "size": 1},
+          {"name": " Boru Tapinanggalasa", "detail": "71814088 Boru Tapinanggalasa SITORUS\nBorn: ABT 1691\nParents: Solim Sodungdungon and unknown", "size": 1}
+        ]},
+        {"name": " Raja Mandidang", "detail": "96365482 Raja Mandidang SITORUS\nBorn: ABT 1713\nParents: Raja Ijolo SITORUS and unknown", "children": [
+          {"name": " Pangaraja", "detail": "58875016 Pangaraja SITORUS\nBorn: ABT 1738\nParents: Raja Mandidang SITORUS and unknown", "children": [
+            {"name": " Raja O. Nangin", "detail": "72675140 Raja O. Nangin SITORUS\nBorn: ABT 1763\nParents: Pangaraja SITORUS and unknown", "children": [
+              {"name": " Ompu Sohuturon", "detail": "4032592 Ompu Sohuturon SITORUS\nBorn: ABT 1788\nParents: Raja O. Nangin SITORUS and unknown", "size": 1},
+              {"name": " Raja Rumagaja", "detail": "53024224 Raja Rumagaja SITORUS\nBorn: ABT 1789\nParents: Raja O. Nangin SITORUS and unknown", "size": 1},
+              {"name": " Pangalahat", "detail": "38156152 Pangalahat SITORUS\nBorn: ABT 1790\nParents: Raja O. Nangin SITORUS and unknown", "children": [
+                {"name": " Paralat", "detail": "99951088 Paralat SITORUS\nBorn: ABT 1815\nParents: Pangalahat SITORUS and unknown", "children": [
+                  {"name": " Ompu Julu Debata", "detail": "30844008 Ompu Julu Debata SITORUS\nParents: Paralat SITORUS and unknown", "size": 1},
+                  {"name": " Ompu Saelan", "detail": "48855681 Ompu Saelan SITORUS\nParents: Paralat SITORUS and unknown", "size": 1},
+                  {"name": " Ompu Sisuhunan", "detail": "29563824 Ompu Sisuhunan SITORUS\nParents: Paralat SITORUS and unknown", "size": 1},
+                  {"name": " Ompu Sahala Paianon", "detail": "64199740 Ompu Sahala Paianon\nBorn: 1840\nDied: 1880\nParents: Paralat SITORUS and unknown", "children": [
+                    {"name": " Ompu Juara Monang", "detail": "46047986 Ompu Juara Monang\nParents: Ompu Sahala Paianon and unknown", "children": [
+                      {"name": " Ompu Sitolpus", "detail": "10400133 Ompu Sitolpus\nParents: Ompu Juara Monang and unknown", "size": 1}
+                    ]},
+                    {"name": " Ompu Mangun", "detail": "27207158 Ompu Mangun\nBorn: 1865\nDied: 1905\nParents: Ompu Sahala Paianon and unknown", "children": [
+                      {"name": " Ompu Gani", "detail": "412720 Ompu Gani\nBorn: 1895\nDied: 1944\nParents: Ompu Mangun and unknown", "children": [
+                        {"name": " Ompu Monggo", "detail": "13729886 Ompu Monggo\nBorn: 1911\nDied: 1943\nParents: Ompu Gani and SITORUS", "children": [
+                          {"name": " Ompu Tamado", "detail": "51941664 Ompu Tamado\nBorn: 1936\nDied: 2007\nParents: Ompu Monggo and unknown", "children": [
+                            {"name": " Amani Dimpos", "detail": "61296338 Amani Dimpos\nParents: Ompu Tamado and unknown", "children": [
+                              {"name": " Dimpos Hadameon", "detail": "14893957 Dimpos Hadameon SITORUS\nParents: Amani Dimpos and SITORUS", "size": 1}
+                            ]},
+                            {"name": " Amani Hitado Managam", "detail": "82168752 Amani Hitado Managam\nParents: Ompu Tamado and unknown", "children": [
+                              {"name": " Hitado Managam", "detail": "50445383 Hitado Managam SITORUS\nBorn: 2003\nParents: Amani Hitado Managam and SITORUS", "size": 1}
+                            ]},
+                            {"name": " Amani Tamado", "detail": "43919478 Amani Tamado\nParents: Ompu Tamado and unknown", "children": [
+                              {"name": " Tamado", "detail": "84677960 Tamado SITORUS\nParents: Amani Tamado and (Aller's wife) NAPITUPULU", "size": 1},
+                              {"name": " Julius", "detail": "65426458 Julius SITORUS\nParents: Amani Tamado and (Aller's wife) NAPITUPULU", "size": 1}
+                            ]},
+                            {"name": " Marnalom Pintor Asi", "detail": "33792 Marnalom Pintor Asi SITORUS\nParents: Ompu Tamado and unknown", "size": 1}
+                          ]}
+                        ]},
+                        {"name": " Julu", "detail": "4543364 Julu\nParents: Ompu Gani and SITORUS", "children": [
+                          {"name": " Amani Radot", "detail": "44083542 Amani Radot\nParents: Julu and SITORUS", "size": 1},
+                          {"name": " Ramli", "detail": "12009166 Ramli SITORUS\nParents: Julu and SITORUS", "size": 1},
+                          {"name": " Budi", "detail": "45595622 Budi SITORUS\nParents: Julu and SITORUS", "size": 1},
+                          {"name": " Ranto", "detail": "70415532 Ranto SITORUS\nParents: Julu and SITORUS", "size": 1},
+                          {"name": " Amani Melda", "detail": "84261495 Amani Melda\nParents: Julu and SITORUS", "size": 1},
+                          {"name": " Amani Marlis", "detail": "19102912 Amani Marlis\nParents: Julu and SITORUS", "size": 1}
+                        ]}
+                      ]}
+                    ]}
+                  ]}
+                ]},
+                {"name": " Ompu Tumonggur", "detail": "23798012 Ompu Tumonggur SITORUS\nBorn: ABT 1816\nParents: Pangalahat SITORUS and unknown", "children": [
+                  {"name": " Raja O. Sisarung", "detail": "14310988 Raja O. Sisarung SITORUS\nParents: Ompu Tumonggur SITORUS and unknown", "size": 1},
+                  {"name": " Guru Mallangat", "detail": "59827624 Guru Mallangat SITORUS\nParents: Ompu Tumonggur SITORUS and unknown", "size": 1},
+                  {"name": " Ompu Taguru", "detail": "49289040 Ompu Taguru SITORUS\nParents: Ompu Tumonggur SITORUS and unknown", "size": 1}
+                ]}
+              ]},
+              {"name": " Sorta Niaji", "detail": "28007950 Sorta Niaji SITORUS\nBorn: ABT 1791\nParents: Raja O. Nangin SITORUS and unknown", "size": 1}
+            ]}
+          ]}
+        ]},
+        {"name": " Badia Raja", "detail": "34347768 Badia Raja SITORUS\nBorn: ABT 1714\nParents: Raja Ijolo SITORUS and unknown", "size": 1}
+      ]}
+    ]}
+  ]}
+]};
