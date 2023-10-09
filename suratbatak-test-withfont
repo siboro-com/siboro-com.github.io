@@ -1,8 +1,16 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Batak&display=swap">
+
+<style>
+  h2 {
+    font-family: 'Noto Sans Batak', sans-serif;
+  }
+</style>
+
 <h2>
-Copied from <a href="https://en.wikipedia.org/wiki/Batak_script">Wikipedia</a>: ᯖᯪᯇ᯲<br>
-Typed using <a href="https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US&pli=1">Multiling keyboard</a> on Android: ᯖᯇᯪ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tipq") : ᯖᯪᯇ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tpiq") : ᯖᯇᯪ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tipq") : ᯖᯪᯇ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tpiq") : ᯖᯇᯪ᯲<br>
+  Copied from <a href="https://en.wikipedia.org/wiki/Batak_script">Wikipedia</a>: <span class="batak-text">ᯖᯪᯇ᯲</span><br>
+  Typed using <a href="https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US&pli=1">Multiling keyboard</a> on Android: <span class="batak-text">ᯖᯇᯪ᯲</span><br>
+  Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tipq"): <span class="batak-text">ᯖᯪᯇ᯲</span><br>
+  Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tpiq"): <span class="batak-text">ᯖᯇᯪ᯲</span><br>
+  Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tipq"): <span class="batak-text">ᯖᯪᯇ᯲</span><br>
+  Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tpiq"): <span class="batak-text">ᯖᯇᯪ᯲</span><br>
 </h2>
