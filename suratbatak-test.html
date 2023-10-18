@@ -1,8 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Current Font</title>
+    <style>
+        #fontDisplay {
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Current Font</h1>
+    <p>The font used to render this page is:</p>
+    <div id="fontDisplay">Font Name</div>
+
+    <script>
+        // JavaScript to get and display the current font
+        const fontDisplay = document.getElementById('fontDisplay');
+        const computedStyle = getComputedStyle(fontDisplay);
+        const currentFont = computedStyle.fontFamily;
+        fontDisplay.textContent = currentFont;
+    </script>
+
 <h2>
-Copied from <a href="https://en.wikipedia.org/wiki/Batak_script">Wikipedia</a>: ᯖᯪᯇ᯲<br>
-Typed using <a href="https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US&pli=1">Multiling keyboard</a> on Android: ᯖᯇᯪ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tipq") : ᯖᯪᯇ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tpiq") : ᯖᯇᯪ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tipq") : ᯖᯪᯇ᯲<br>
-Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tpiq") : ᯖᯇᯪ᯲<br>
-</h2>
+    Copied from <a href="https://en.wikipedia.org/wiki/Batak_script">Wikipedia</a>: ᯖᯪᯇ᯲<br>
+    Typed using <a href="https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US&pli=1">Multiling keyboard</a> on Android: ᯖᯇᯪ᯲<br>
+    Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tipq") : ᯖᯪᯇ᯲<br>
+    Typed using <a href="https://keyman.com/">Keyman</a> on Mac (typed as "tpiq") : ᯖᯇᯪ᯲<br>
+    Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tipq") : ᯖᯪᯇ᯲<br>
+    Typed using <a href="https://keyman.com/">Keyman</a> on Android (typed as "tpiq") : ᯖᯇᯪ᯲<br>
+    </h2>
+    
+</body>
+</html>
