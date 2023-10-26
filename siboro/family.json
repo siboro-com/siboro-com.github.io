@@ -330,9 +330,9 @@ var loadData =
                               {"name": " Christy Julieta Nobuko Tiarku", "detail": "58743083 Christy Julieta Nobuko Tiarku SIBORO\nBorn: 2007/07/25\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1}
                             ]},
                             {"name": " Arnold Pandapotan", "detail": "32917432 Arnold Pandapotan SIBORO\nBorn: 1972/04/25\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
-                              {"name": " かなそもるりあな", "detail": "52606728 かなそもるりあな しぼろ\nBorn: 2003/09/26\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1},
-                              {"name": " 理佳ロウリナ", "detail": "18211264 理佳ロウリナ シボロ\nBorn: 2006/01/05\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1},
-                              {"name": " 聖佳ロハナ", "detail": "53221919 聖佳ロハナ シボロ\nBorn: 2010/02/20\nParents: Arnold Pandapotan SIBORO and かよ つるはら", "size": 1}
+                              {"name": " 佳菜ソモルリアナ", "detail": "52606728 佳菜ソモルリアナ シボロ\nBorn: 2003/09/26\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1},
+                              {"name": " 理佳ロウリナ", "detail": "18211264 理佳ロウリナ シボロ\nBorn: 2006/01/05\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1},
+                              {"name": " 聖佳ロハナ", "detail": "53221919 聖佳ロハナ シボロ\nBorn: 2010/02/20\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1}
                             ]},
                             {"name": " Shirley Tumiar", "detail": "25942016 Shirley Tumiar SIBORO\nBorn: 1973/10/04\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
                               {"name": " Raul Raphael Jonathan Togarma", "detail": "72055545 Raul Raphael Jonathan Togarma SIMALANGO\nBorn: 2004/09/23\nParents: Oswald Semuel SIMALANGO and Shirley Tumiar SIBORO", "size": 1},
