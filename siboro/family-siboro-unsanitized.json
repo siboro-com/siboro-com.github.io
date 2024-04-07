@@ -1,0 +1,732 @@
+var loadData =
+{"name": " Siparulas", "detail": "13483494 Siparulas\nBorn: ABT 1615\nParents: Somalate and unknown", "children": [
+  {"name": " Lumban Raja", "detail": "86277861 Lumban Raja NAINGGOLAN\nParents: Siparulas and (Datu Parulas Parultop's wife) NAINGGOLAN", "size": 1},
+  {"name": " Bangundongoran", "detail": "23399528 Bangundongoran SIBORO\nBorn: ABT 1641\nParents: Siparulas and Nai Asangpagar SAGALA", "children": [
+    {"name": " Ompu Niangsana", "detail": "81897592 Ompu Niangsana SIBORO\nParents: Bangundongoran SIBORO and unknown", "size": 1},
+    {"name": " Ompu Gontam", "detail": "4841792 Ompu Gontam SIBORO\nParents: Bangundongoran SIBORO and unknown", "children": [
+      {"name": " Ompu Tuan Raja Lombing", "detail": "52134130 Ompu Tuan Raja Lombing SIBORO\nParents: Ompu Gontam SIBORO and unknown", "children": [
+        {"name": " Ompu Lombing Raja", "detail": "80950726 Ompu Lombing Raja SIBORO\nParents: Ompu Tuan Raja Lombing SIBORO and unknown", "children": [
+          {"name": " Ompu Pioan", "detail": "87756355 Ompu Pioan SIBORO\nParents: Ompu Lombing Raja SIBORO and unknown", "children": [
+            {"name": " Ompu Niegol", "detail": "17611260 Ompu Niegol SIBORO\nParents: Ompu Pioan SIBORO and unknown", "size": 1},
+            {"name": " Ompu Rumodung", "detail": "8009355 Ompu Rumodung SIBORO\nParents: Ompu Pioan SIBORO and unknown", "children": [
+              {"name": " Ompu Ombo", "detail": "43553818 Ompu Ombo SIBORO\nParents: Ompu Rumodung SIBORO and unknown", "children": [
+                {"name": " Ompu Omo", "detail": "87551894 Ompu Omo SIBORO\nParents: Ompu Ombo SIBORO and unknown", "children": [
+                  {"name": " Jalahi", "detail": "59195930 Jalahi SIBORO\nParents: Ompu Omo SIBORO and unknown", "children": [
+                    {"name": " Jokkia", "detail": "98591360 Jokkia SIBORO\nParents: Jalahi SIBORO and unknown", "children": [
+                      {"name": " Pendi", "detail": "42201461 Pendi SIBORO\nParents: Jokkia SIBORO and unknown", "size": 1},
+                      {"name": " Lorman", "detail": "9001452 Lorman SIBORO\nParents: Jokkia SIBORO and unknown", "size": 1}
+                    ]},
+                    {"name": " Tibi", "detail": "72085730 Tibi SIBORO\nParents: Jalahi SIBORO and unknown", "children": [
+                      {"name": " Sarman", "detail": "8316597 Sarman SIBORO\nParents: Tibi SIBORO and unknown", "size": 1},
+                      {"name": " Nurdin", "detail": "91661315 Nurdin SIBORO\nParents: Tibi SIBORO and unknown", "size": 1}
+                    ]},
+                    {"name": " Alben", "detail": "46116893 Alben SIBORO\nParents: Jalahi SIBORO and unknown", "children": [
+                      {"name": " Lemar", "detail": "77142354 Lemar SIBORO\nParents: Alben SIBORO and unknown", "size": 1},
+                      {"name": " Marulak", "detail": "94818672 Marulak SIBORO\nParents: Alben SIBORO and unknown", "size": 1}
+                    ]},
+                    {"name": " Mattam", "detail": "1339719 Mattam SIBORO\nParents: Jalahi SIBORO and unknown", "children": [
+                      {"name": " Polman", "detail": "80500293 Polman SIBORO\nParents: Mattam SIBORO and unknown", "size": 1},
+                      {"name": " Kori", "detail": "16271200 Kori SIBORO\nParents: Mattam SIBORO and unknown", "size": 1},
+                      {"name": " Kaman", "detail": "38035880 Kaman SIBORO\nParents: Mattam SIBORO and unknown", "size": 1}
+                    ]},
+                    {"name": " Hupir", "detail": "32028416 Hupir SIBORO\nParents: Jalahi SIBORO and unknown", "children": [
+                      {"name": " Mardi", "detail": "33029644 Mardi SIBORO\nParents: Hupir SIBORO and unknown", "size": 1}
+                    ]}
+                  ]},
+                  {"name": " Peteng", "detail": "84577572 Peteng SIBORO\nParents: Ompu Omo SIBORO and unknown", "children": [
+                    {"name": " Sari", "detail": "67573024 Sari SIBORO\nParents: Peteng SIBORO and unknown", "size": 1},
+                    {"name": " Mittarajam", "detail": "40665054 Mittarajam SIBORO\nParents: Peteng SIBORO and unknown", "size": 1},
+                    {"name": " Disman", "detail": "26655240 Disman SIBORO\nParents: Peteng SIBORO and unknown", "size": 1},
+                    {"name": " Manogu Alsom", "detail": "51353836 Manogu Alsom SIBORO\nParents: Peteng SIBORO and unknown", "size": 1}
+                  ]}
+                ]},
+                {"name": " Ompu Ombo", "detail": "73919641 Ompu Ombo SIBORO\nParents: Ompu Ombo SIBORO and unknown", "children": [
+                  {"name": " Amani Omo", "detail": "95482416 Amani Omo SIBORO\nParents: Ompu Ombo SIBORO and unknown", "size": 1},
+                  {"name": " Amani Ombo", "detail": "98353692 Amani Ombo SIBORO\nParents: Ompu Ombo SIBORO and unknown", "children": [
+                    {"name": " Somo", "detail": "23939717 Somo SIBORO\nParents: Amani Ombo SIBORO and unknown", "children": [
+                      {"name": " Jaelsan", "detail": "15100552 Jaelsan SIBORO\nParents: Somo SIBORO and unknown", "children": [
+                        {"name": " Riko", "detail": "93468708 Riko SIBORO\nParents: Jaelsan SIBORO and unknown", "children": [
+                          {"name": " Louis", "detail": "97366956 Louis SIBORO\nParents: Riko SIBORO and unknown", "size": 1},
+                          {"name": " Krisna", "detail": "77643610 Krisna SIBORO\nParents: Riko SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Osden", "detail": "54267772 Osden SIBORO\nParents: Jaelsan SIBORO and unknown", "children": [
+                          {"name": " Bernat", "detail": "94305424 Bernat SIBORO\nParents: Osden SIBORO and unknown", "size": 1},
+                          {"name": " Juan", "detail": "10553342 Juan SIBORO\nParents: Osden SIBORO and unknown", "size": 1},
+                          {"name": " Beslin", "detail": "66514584 Beslin SIBORO\nParents: Osden SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Ramlen", "detail": "91288578 Ramlen SIBORO\nParents: Jaelsan SIBORO and unknown", "children": [
+                          {"name": " Florance Agustina", "detail": "43101713 Florance Agustina SIBORO\nParents: Ramlen SIBORO and Osmaria SIMARMATA", "size": 1},
+                          {"name": " Andika", "detail": "50046318 Andika SIBORO\nParents: Ramlen SIBORO and Osmaria SIMARMATA", "size": 1},
+                          {"name": " Parlindungan", "detail": "10906059 Parlindungan SIBORO\nParents: Ramlen SIBORO and Osmaria SIMARMATA", "size": 1},
+                          {"name": " Dody Candra", "detail": "56378874 Dody Candra SIBORO\nDied: 2013/09/23\nParents: Ramlen SIBORO and Osmaria SIMARMATA", "size": 1}
+                        ]},
+                        {"name": " Arisden", "detail": "21906022 Arisden SIBORO\nParents: Jaelsan SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Peles", "detail": "42562372 Peles SIBORO\nParents: Somo SIBORO and unknown", "children": [
+                        {"name": " Jarmaihut", "detail": "91134416 Jarmaihut SIBORO\nParents: Peles SIBORO and unknown", "children": [
+                          {"name": " Kasmen", "detail": "57347424 Kasmen SIBORO\nParents: Jarmaihut SIBORO and unknown", "children": [
+                            {"name": " Ucok", "detail": "38504616 Ucok SIBORO\nParents: Kasmen SIBORO and unknown", "size": 1},
+                            {"name": " Masron", "detail": "11763609 Masron SIBORO\nParents: Kasmen SIBORO and unknown", "size": 1},
+                            {"name": " Henry", "detail": "29884406 Henry SIBORO\nParents: Kasmen SIBORO and unknown", "size": 1},
+                            {"name": " Ojak", "detail": "77329252 Ojak SIBORO\nParents: Kasmen SIBORO and unknown", "size": 1}
+                          ]}
+                        ]},
+                        {"name": " Marhuatal", "detail": "25945386 Marhuatal SIBORO\nParents: Peles SIBORO and unknown", "children": [
+                          {"name": " Marihot", "detail": "65955378 Marihot SIBORO\nParents: Marhuatal SIBORO and unknown", "size": 1},
+                          {"name": " Novendri", "detail": "89380701 Novendri SIBORO\nParents: Marhuatal SIBORO and unknown", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Pangsa", "detail": "75014420 Pangsa SIBORO\nParents: Somo SIBORO and unknown", "children": [
+                        {"name": " Bihot", "detail": "21287973 Bihot SIBORO\nParents: Pangsa SIBORO and unknown", "size": 1},
+                        {"name": " Alber", "detail": "53809537 Alber SIBORO\nParents: Pangsa SIBORO and unknown", "size": 1},
+                        {"name": " Osmar", "detail": "925512 Osmar SIBORO\nParents: Pangsa SIBORO and unknown", "size": 1},
+                        {"name": " Erbin", "detail": "6226407 Erbin SIBORO\nParents: Pangsa SIBORO and unknown", "children": [
+                          {"name": " Parulian", "detail": "27150176 Parulian SIBORO\nParents: Erbin SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]},
+                    {"name": " Somarjalakkit", "detail": "89114224 Somarjalakkit SIBORO\nParents: Amani Ombo SIBORO and unknown", "children": [
+                      {"name": " Batta", "detail": "76532524 Batta SIBORO\nParents: Somarjalakkit SIBORO and unknown", "children": [
+                        {"name": " Rimson", "detail": "2999004 Rimson SIBORO\nParents: Batta SIBORO and unknown", "size": 1},
+                        {"name": " Sahat", "detail": "16091606 Sahat SIBORO\nParents: Batta SIBORO and unknown", "children": [
+                          {"name": " Parulian", "detail": "15685632 Parulian SIBORO\nParents: Sahat SIBORO and unknown", "size": 1},
+                          {"name": " Roy", "detail": "68705127 Roy SIBORO\nParents: Sahat SIBORO and unknown", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Juleken", "detail": "59407577 Juleken SIBORO\nParents: Somarjalakkit SIBORO and unknown", "children": [
+                        {"name": " Apianus", "detail": "36877170 Apianus SIBORO\nParents: Juleken SIBORO and unknown", "size": 1},
+                        {"name": " Mariel", "detail": "37131643 Mariel SIBORO\nParents: Juleken SIBORO and unknown", "size": 1},
+                        {"name": " Jamiller", "detail": "51792422 Jamiller SIBORO\nParents: Juleken SIBORO and unknown", "size": 1},
+                        {"name": " Miel", "detail": "8966262 Miel SIBORO\nParents: Juleken SIBORO and unknown", "size": 1},
+                        {"name": " Eliasa", "detail": "52669946 Eliasa SIBORO\nParents: Juleken SIBORO and unknown", "size": 1}
+                      ]}
+                    ]},
+                    {"name": " Japentar", "detail": "3067022 Japentar SIBORO\nParents: Amani Ombo SIBORO and unknown", "children": [
+                      {"name": " Saudagar", "detail": "35365432 Saudagar SIBORO\nParents: Japentar SIBORO and unknown", "children": [
+                        {"name": " Gani", "detail": "52917292 Gani SIBORO\nParents: Saudagar SIBORO and unknown", "children": [
+                          {"name": " Janri", "detail": "56559407 Janri SIBORO\nParents: Gani SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Listor", "detail": "92774491 Listor SIBORO\nParents: Saudagar SIBORO and unknown", "children": [
+                          {"name": " Candra", "detail": "35183634 Candra SIBORO\nParents: Listor SIBORO and unknown", "size": 1},
+                          {"name": " Andi", "detail": "6404327 Andi SIBORO\nParents: Listor SIBORO and unknown", "size": 1},
+                          {"name": " Henry", "detail": "9535010 Henry SIBORO\nParents: Listor SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]}
+            ]},
+            {"name": " Ompu Ni Arisan", "detail": "5581066 Ompu Ni Arisan SIBORO\nParents: Ompu Pioan SIBORO and unknown", "size": 1}
+          ]},
+          {"name": " Ompu Tuan Rongam", "detail": "68153700 Ompu Tuan Rongam SIBORO\nParents: Ompu Lombing Raja SIBORO and unknown", "size": 1}
+        ]},
+        {"name": " Ompu Pankosip", "detail": "60883392 Ompu Pankosip SIBORO\nParents: Ompu Tuan Raja Lombing SIBORO and unknown", "size": 1}
+      ]},
+      {"name": " Ompu Pioan", "detail": "41907869 Ompu Pioan SIBORO\nParents: Ompu Gontam SIBORO and unknown", "size": 1},
+      {"name": " Ompu Manorus", "detail": "68680984 Ompu Manorus\nParents: Ompu Gontam SIBORO and unknown", "size": 1},
+      {"name": " Ompu Guru Porang Ni Aji", "detail": "91345680 Ompu Guru Porang Ni Aji SIBORO\nParents: Ompu Gontam SIBORO and unknown", "children": [
+        {"name": " Ompu Guru Sodung Dangon", "detail": "29963206 Ompu Guru Sodung Dangon SIBORO\nParents: Ompu Guru Porang Ni Aji SIBORO and unknown", "size": 1},
+        {"name": " Ompu Tuan Rongam", "detail": "93177592 Ompu Tuan Rongam SIBORO\nParents: Ompu Guru Porang Ni Aji SIBORO and unknown", "children": [
+          {"name": " Ompu Bona", "detail": "80443861 Ompu Bona SIBORO\nParents: Ompu Tuan Rongam SIBORO and unknown", "size": 1},
+          {"name": " Ompu Rungu", "detail": "35805184 Ompu Rungu SIBORO\nParents: Ompu Tuan Rongam SIBORO and unknown", "size": 1},
+          {"name": " Ompu Tuan Rongam", "detail": "13465616 Ompu Tuan Rongam SIBORO\nParents: Ompu Tuan Rongam SIBORO and unknown", "size": 1}
+        ]}
+      ]}
+    ]},
+    {"name": " Ompu Raja Nados", "detail": "70524332 Ompu Raja Nados\nParents: Bangundongoran SIBORO and unknown", "children": [
+      {"name": " Ompu Tarsunam", "detail": "67227585 Ompu Tarsunam\nParents: Ompu Raja Nados and unknown", "children": [
+        {"name": " Ompu Tahilalo", "detail": "55628842 Ompu Tahilalo SIBORO\nParents: Ompu Tarsunam and unknown", "children": [
+          {"name": " Ompu Hutajolo", "detail": "47704416 Ompu Hutajolo SIBORO\nParents: Ompu Tahilalo SIBORO and unknown", "children": [
+            {"name": " Ompu Marhandang", "detail": "74963774 Ompu Marhandang\nParents: Ompu Hutajolo SIBORO and unknown", "children": [
+              {"name": " Amani Marhandang", "detail": "28598264 Amani Marhandang SIBORO\nParents: Ompu Marhandang and unknown", "children": [
+                {"name": " Toga Handang", "detail": "90975930 Toga Handang SIBORO\nParents: Amani Marhandang SIBORO and unknown", "children": [
+                  {"name": " Tondung", "detail": "77431928 Tondung SIBORO\nParents: Toga Handang SIBORO and unknown", "children": [
+                    {"name": " Manungkun", "detail": "11239104 Manungkun SIBORO\nParents: Tondung SIBORO and unknown", "children": [
+                      {"name": " Bongkot", "detail": "91429658 Bongkot SIBORO\nParents: Manungkun SIBORO and unknown", "children": [
+                        {"name": " Jalilin", "detail": "32265574 Jalilin SIBORO\nParents: Bongkot SIBORO and unknown", "children": [
+                          {"name": " Yohannes", "detail": "11819997 Yohannes SIBORO\nParents: Jalilin SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]},
+              {"name": " Ompu Hatoguon", "detail": "79992686 Ompu Hatoguon SIBORO\nParents: Ompu Marhandang and unknown", "children": [
+                {"name": " Ompu Menggalang", "detail": "20134100 Ompu Menggalang SIBORO\nParents: Ompu Hatoguon SIBORO and unknown", "children": [
+                  {"name": " Raja Nasanggam", "detail": "31364038 Raja Nasanggam\nParents: Ompu Menggalang SIBORO and unknown", "children": [
+                    {"name": " Raja Pandua", "detail": "22673757 Raja Pandua\nParents: Raja Nasanggam and unknown", "children": [
+                      {"name": " (Jan's grandfather)", "detail": "76119008 (Jan's grandfather) SIBORO\nParents: Raja Pandua and unknown", "children": [
+                        {"name": " (Jan's father)", "detail": "40916826 (Jan's father) SIBORO\nParents: (Jan's grandfather) SIBORO and unknown", "children": [
+                          {"name": " Jan Pieter Parluhutan", "detail": "77281910 Jan Pieter Parluhutan SIBORO\nParents: (Jan's father) SIBORO and unknown", "children": [
+                            {"name": " Sondang", "detail": "64816974 Sondang SIBORO\nParents: Jan Pieter Parluhutan SIBORO and (Jan's wife) SINAGA", "size": 1},
+                            {"name": " Dahlia", "detail": "63288576 Dahlia SIBORO\nParents: Jan Pieter Parluhutan SIBORO and (Jan's wife) SINAGA", "size": 1},
+                            {"name": " Merry Christina H.", "detail": "92593728 Merry Christina H. SIBORO\nParents: Jan Pieter Parluhutan SIBORO and (Jan's wife) SINAGA", "size": 1}
+                          ]}
+                        ]}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]}
+            ]}
+          ]}
+        ]}
+      ]}
+    ]},
+    {"name": " Mombang Niaji", "detail": "8223840 Mombang Niaji SIBORO\nParents: Bangundongoran SIBORO and unknown", "size": 1}
+  ]},
+  {"name": " Oppuniarga Raja", "detail": "26987197 Oppuniarga Raja SIBORO\nBorn: ABT 1642\nParents: Siparulas and Nai Asangpagar SAGALA", "children": [
+    {"name": " Ompu Jabuhit", "detail": "31652085 Ompu Jabuhit SIBORO\nBorn: ABT 1667\nParents: Oppuniarga Raja SIBORO and (Oppuniarga's wife) SAGALA", "children": [
+      {"name": " Ompu Raja Ngingi", "detail": "73414109 Ompu Raja Ngingi SIBORO\nParents: Ompu Jabuhit SIBORO and unknown", "size": 1},
+      {"name": " Guru Tinatea", "detail": "56390990 Guru Tinatea SIBORO\nBorn: ABT 1692\nParents: Ompu Jabuhit SIBORO and unknown", "children": [
+        {"name": " Ompu Mangau", "detail": "28964780 Ompu Mangau SIBORO\nBorn: ABT 1717\nParents: Guru Tinatea SIBORO and unknown", "children": [
+          {"name": " Ompu Sijuaon", "detail": "28367446 Ompu Sijuaon SIBORO\nBorn: ABT 1742\nParents: Ompu Mangau SIBORO and unknown", "children": [
+            {"name": " Ompu Utul", "detail": "55101376 Ompu Utul SIBORO\nBorn: ABT 1767\nParents: Ompu Sijuaon SIBORO and unknown", "children": [
+              {"name": " Ompu Pareme", "detail": "26596632 Ompu Pareme SIBORO\nBorn: ABT 1792\nParents: Ompu Utul SIBORO and unknown", "children": [
+                {"name": " Ompu Tindo Huta", "detail": "10395828 Ompu Tindo Huta SIBORO\nBorn: ABT 1817\nParents: Ompu Pareme SIBORO and unknown", "children": [
+                  {"name": " Amantindo Huta", "detail": "77446860 Amantindo Huta SIBORO\nBorn: ABT 1842\nParents: Ompu Tindo Huta SIBORO and unknown", "children": [
+                    {"name": " Aman Toga Boru", "detail": "60398118 Aman Toga Boru SIBORO\nBorn: ABT 1867\nParents: Amantindo Huta SIBORO and unknown", "children": [
+                      {"name": " A. Jaheba", "detail": "86542706 A. Jaheba SIBORO\nBorn: ABT 1892\nParents: Aman Toga Boru SIBORO and unknown", "children": [
+                        {"name": " Lumbanraja", "detail": "21385042 Lumbanraja SIBORO\nBorn: ABT 1917\nParents: A. Jaheba SIBORO and unknown", "children": [
+                          {"name": " Batubara", "detail": "65962972 Batubara SIBORO\nBorn: ABT 1942\nParents: Lumbanraja SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Maruhum", "detail": "67588692 Maruhum SIBORO\nBorn: ABT 1918\nParents: A. Jaheba SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Lingkit", "detail": "75511570 Lingkit SIBORO\nBorn: ABT 1893\nParents: Aman Toga Boru SIBORO and unknown", "children": [
+                        {"name": " Timur", "detail": "61677733 Timur SIBORO\nBorn: ABT 1918\nParents: Lingkit SIBORO and unknown", "size": 1},
+                        {"name": " Udin", "detail": "75815792 Udin SIBORO\nBorn: ABT 1919\nParents: Lingkit SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Jahurtik", "detail": "5528017 Jahurtik SIBORO\nBorn: ABT 1894\nParents: Aman Toga Boru SIBORO and unknown", "size": 1},
+                      {"name": " Amar", "detail": "95404290 Amar SIBORO\nBorn: ABT 1895\nParents: Aman Toga Boru SIBORO and unknown", "children": [
+                        {"name": " Lbn. Radja", "detail": "30502650 Lbn. Radja SIBORO\nBorn: ABT 1920\nParents: Amar SIBORO and unknown", "size": 1}
+                      ]}
+                    ]}
+                  ]}
+                ]}
+              ]},
+              {"name": " Ompu Godar", "detail": "42789376 Ompu Godar SIBORO\nBorn: ABT 1793\nParents: Ompu Utul SIBORO and unknown", "children": [
+                {"name": " Br.", "detail": "29481418 Br. SIBORO\nBorn: ABT 1818\nParents: Ompu Godar SIBORO and unknown", "children": [
+                  {"name": " Ompu Tambiur", "detail": "23139456 Ompu Tambiur SAGALA\nBorn: ABT 1843\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1},
+                  {"name": " Ompu Tn. Basar", "detail": "35983742 Ompu Tn. Basar SAGALA\nBorn: ABT 1844\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1},
+                  {"name": " Ompu Jahuala", "detail": "52699279 Ompu Jahuala SAGALA\nBorn: ABT 1845\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1},
+                  {"name": " Ompu Laing", "detail": "98385870 Ompu Laing SAGALA\nBorn: ABT 1846\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1},
+                  {"name": " Ompu Jadoman", "detail": "39029821 Ompu Jadoman SAGALA\nBorn: ABT 1847\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1},
+                  {"name": " Ompu Doli", "detail": "90540441 Ompu Doli SAGALA\nBorn: ABT 1848\nParents: Raja Bolon SAGALA and Br. SIBORO", "size": 1}
+                ]},
+                {"name": " Br.", "detail": "26738028 Br. SIBORO\nBorn: ABT 1819\nParents: Ompu Godar SIBORO and unknown", "size": 1}
+              ]},
+              {"name": " Ompu Gojor", "detail": "64437122 Ompu Gojor SIBORO\nBorn: ABT 1794\nParents: Ompu Utul SIBORO and unknown", "children": [
+                {"name": " Ompu Pasang", "detail": "74912568 Ompu Pasang SIBORO\nBorn: ABT 1819\nParents: Ompu Gojor SIBORO and unknown", "children": [
+                  {"name": " Amani Pasang", "detail": "85761840 Amani Pasang SIBORO\nBorn: ABT 1844\nParents: Ompu Pasang SIBORO and unknown", "children": [
+                    {"name": " Apparulas Angin", "detail": "59777962 Apparulas Angin SIBORO\nBorn: ABT 1869\nParents: Amani Pasang SIBORO and unknown", "children": [
+                      {"name": " Ompu Jaingat", "detail": "28592810 Ompu Jaingat SIBORO\nBorn: ABT 1893\nParents: Apparulas Angin SIBORO and unknown", "children": [
+                        {"name": " Sitimbo", "detail": "34691716 Sitimbo SIBORO\nParents: Ompu Jaingat SIBORO and unknown", "size": 1},
+                        {"name": " Apabanjir", "detail": "52294273 Apabanjir SIBORO\nParents: Ompu Jaingat SIBORO and unknown", "size": 1},
+                        {"name": " A. Djaingat", "detail": "3404410 A. Djaingat\nBorn: ABT 1918\nParents: Ompu Jaingat SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Apataram", "detail": "43987616 Apataram\nBorn: 1894\nDied: 1946\nParents: Apparulas Angin SIBORO and unknown", "children": [
+                        {"name": " Taram", "detail": "89232832 Taram SIBORO\nBorn: ABT 1913\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Bungama", "detail": "20242728 Bungama PASARIBU\nParents: (Taram's husband) PASARIBU and Taram SIBORO", "size": 1},
+                          {"name": " Jahia", "detail": "59183609 Jahia PASARIBU\nParents: (Taram's husband) PASARIBU and Taram SIBORO", "size": 1},
+                          {"name": " Lukeria", "detail": "97873770 Lukeria PASARIBU\nParents: (Taram's husband) PASARIBU and Taram SIBORO", "size": 1}
+                        ]},
+                        {"name": " Barita Laut", "detail": "20491858 Barita Laut SIBORO\nBorn: ABT 1914\nDied: ABT 7 2005\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Bungauli", "detail": "85890156 Bungauli SIBORO\nParents: Barita Laut SIBORO and Pade NAIBAHO", "size": 1},
+                          {"name": " Jamuda", "detail": "58974719 Jamuda SIBORO\nDied: ABT DEC 2007\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Rodney Indrajaya Bakti Halomoan", "detail": "27499414 Rodney Indrajaya Bakti Halomoan SIBORO\nParents: Jamuda SIBORO and Sondang Asni HARAHAP", "children": [
+                              {"name": " Reginald Isaiah Purba", "detail": "56289116 Reginald Isaiah Purba SIBORO\nBorn: 2019/2/1\nParents: Rodney Indrajaya Bakti Halomoan SIBORO and Angela Bintang Christina SIMATUPANG", "size": 1}
+                            ]},
+                            {"name": " Ronald Partogi Pandapotan", "detail": "29264409 Ronald Partogi Pandapotan SIBORO\nParents: Jamuda SIBORO and Sondang Asni HARAHAP", "size": 1},
+                            {"name": " Rezky Putra Nabadia", "detail": "31604976 Rezky Putra Nabadia SIBORO\nParents: Jamuda SIBORO and Sondang Asni HARAHAP", "size": 1}
+                          ]},
+                          {"name": " Tio Rasmi", "detail": "28706467 Tio Rasmi SIBORO\nParents: Barita Laut SIBORO and Pade NAIBAHO", "size": 1},
+                          {"name": " Audy Posman", "detail": "81471754 Audy Posman SIBORO\nDied: 2013/01/19\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Budi", "detail": "21097440 Budi SIBORO\nParents: Audy Posman SIBORO and Netty Herawati SIREGAR", "size": 1},
+                            {"name": " Sonny", "detail": "65497104 Sonny SIBORO\nParents: Audy Posman SIBORO and Netty Herawati SIREGAR", "size": 1}
+                          ]},
+                          {"name": " Delina", "detail": "50563601 Delina SIBORO\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Ramli", "detail": "49538030 Ramli SIGALINGING\nParents: B SIGALINGING and Delina SIBORO", "size": 1},
+                            {"name": " Hasri", "detail": "96439984 Hasri SIGALINGING\nParents: B SIGALINGING and Delina SIBORO", "children": [
+                              {"name": " Ivel", "detail": "24690812 Ivel SIGALINGING\nParents: Hasri SIGALINGING and Hasiani SITOMPUL", "size": 1},
+                              {"name": " Fernando Hamonangan", "detail": "4343468 Fernando Hamonangan SIGALINGING\nParents: Hasri SIGALINGING and Hasiani SITOMPUL", "size": 1}
+                            ]},
+                            {"name": " Florence", "detail": "34339547 Florence SIGALINGING\nParents: B SIGALINGING and Delina SIBORO", "children": [
+                              {"name": " Trines", "detail": "60805518 Trines SIHOMBING\nParents: Jones SIHOMBING and Florence SIGALINGING", "size": 1},
+                              {"name": " Kesya", "detail": "68877658 Kesya SIHOMBING\nParents: Jones SIHOMBING and Florence SIGALINGING", "size": 1}
+                            ]},
+                            {"name": " Debby", "detail": "40500138 Debby SIGALINGING\nParents: B SIGALINGING and Delina SIBORO", "children": [
+                              {"name": " Agata", "detail": "54553664 Agata PURBA\nParents: Martua PURBA and Debby SIGALINGING", "size": 1},
+                              {"name": " England", "detail": "32517750 England PURBA\nParents: Martua PURBA and Debby SIGALINGING", "size": 1}
+                            ]},
+                            {"name": " Dapot", "detail": "6711732 Dapot SIGALINGING\nParents: B SIGALINGING and Delina SIBORO", "children": [
+                              {"name": " Tiar", "detail": "52527371 Tiar SIGALINGING\nParents: Dapot SIGALINGING and Ersy MAIRIKE", "size": 1},
+                              {"name": " Sanselita", "detail": "3852966 Sanselita SIGALINGING\nParents: Dapot SIGALINGING and Ersy MAIRIKE", "size": 1},
+                              {"name": " Marselita", "detail": "43388784 Marselita SIGALINGING\nParents: Dapot SIGALINGING and Ersy MAIRIKE", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Siti", "detail": "58589120 Siti SIBORO\nBorn: ABT 1934\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Esdiman", "detail": "98059755 Esdiman MATANARI\nBorn: ABT 1959\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Sandra Yurike", "detail": "51841741 Sandra Yurike MATANARI\nBorn: ABT 1990\nParents: Esdiman MATANARI and Rachel HUTAPEA", "children": [
+                                {"name": " Hizekiya Eklam", "detail": "36972547 Hizekiya Eklam SIHOMBING\nBorn: 2018/9/28\nParents: Rocky Nico SIHOMBING and Sandra Yurike MATANARI", "size": 1}
+                              ]},
+                              {"name": " Reyhan Ondian", "detail": "69465728 Reyhan Ondian MATANARI\nBorn: 1991/11/11\nParents: Esdiman MATANARI and Rachel HUTAPEA", "size": 1},
+                              {"name": " Shinta Nami", "detail": "58023026 Shinta Nami MATANARI\nBorn: ABT 1992\nParents: Esdiman MATANARI and Rachel HUTAPEA", "size": 1}
+                            ]},
+                            {"name": " Sadarwin", "detail": "90127024 Sadarwin MATANARI\nBorn: 1961/04/16\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Santi", "detail": "92059825 Santi MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1},
+                              {"name": " Ivanov", "detail": "36712700 Ivanov MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1},
+                              {"name": " Imran", "detail": "89558952 Imran MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1},
+                              {"name": " Robby", "detail": "3978508 Robby MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1},
+                              {"name": " Rudianto", "detail": "50149516 Rudianto MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1},
+                              {"name": " Rivaldi", "detail": "79417608 Rivaldi MATANARI\nParents: Sadarwin MATANARI and Espina MANIK", "size": 1}
+                            ]},
+                            {"name": " Sorta", "detail": "27582383 Sorta MATANARI\nBorn: ABT 1962\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Bayu", "detail": "15759925 Bayu MANIK\nParents: Eriston MANIK and Sorta MATANARI", "size": 1},
+                              {"name": " Aldo", "detail": "10011536 Aldo MANIK\nParents: Eriston MANIK and Sorta MATANARI", "size": 1}
+                            ]},
+                            {"name": " Lamhong", "detail": "3536052 Lamhong MATANARI\nBorn: ABT 1963\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " (Lamhong's 2nd child)", "detail": "90084952 (Lamhong's 2nd child) MATANARI\nParents: Lamhong MATANARI and (Lamhong's wife) SIBORO", "size": 1},
+                              {"name": " Felix", "detail": "73546688 Felix MATANARI\nParents: Lamhong MATANARI and (Lamhong's wife) SIBORO", "size": 1},
+                              {"name": " Michael", "detail": "31597104 Michael MATANARI\nParents: Lamhong MATANARI and (Lamhong's wife) SIBORO", "size": 1}
+                            ]},
+                            {"name": " Bigwai", "detail": "15739206 Bigwai\nBorn: ABT 1964\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Yenith Rosari", "detail": "7410290 Yenith Rosari MATANARI\nParents: Bigwai and Suryani SIAGIAN", "size": 1},
+                              {"name": " Margaretha", "detail": "30978576 Margaretha MATANARI\nParents: Bigwai and Suryani SIAGIAN", "size": 1}
+                            ]},
+                            {"name": " Lamria", "detail": "65084077 Lamria MATANARI\nBorn: ABT 1966\nParents: Abidan MATANARI and Siti SIBORO", "size": 1},
+                            {"name": " Martupa", "detail": "30881198 Martupa MATANARI\nBorn: ABT 1967\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Faraz Tesalonika", "detail": "90917119 Faraz Tesalonika SINAGA\nParents: Melarius SINAGA and Martupa MATANARI", "size": 1},
+                              {"name": " Joshua Marius Ikhsam", "detail": "84308864 Joshua Marius Ikhsam SINAGA\nParents: Melarius SINAGA and Martupa MATANARI", "size": 1},
+                              {"name": " Hamid Samuel", "detail": "11272362 Hamid Samuel SINAGA\nParents: Melarius SINAGA and Martupa MATANARI", "size": 1},
+                              {"name": " Dini Harianti", "detail": "32915590 Dini Harianti SINAGA\nParents: Melarius SINAGA and Martupa MATANARI", "size": 1}
+                            ]},
+                            {"name": " Togar", "detail": "59698472 Togar MATANARI\nBorn: ABT 1968\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Leoni", "detail": "67921256 Leoni MATANARI\nParents: Togar MATANARI and Lisbeth SAMOSIR", "size": 1},
+                              {"name": " Leonald", "detail": "50538816 Leonald MATANARI\nParents: Togar MATANARI and Lisbeth SAMOSIR", "size": 1}
+                            ]},
+                            {"name": " Murni", "detail": "30699776 Murni MATANARI\nBorn: ABT 1969\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Brian", "detail": "97784481 Brian SIDAURUK\nParents: Lerson SIDAURUK and Murni MATANARI", "size": 1},
+                              {"name": " Renata", "detail": "3070650 Renata SIDAURUK\nParents: Lerson SIDAURUK and Murni MATANARI", "size": 1}
+                            ]},
+                            {"name": " Sihar", "detail": "47129106 Sihar MATANARI\nBorn: 1969/10/01\nParents: Abidan MATANARI and Siti SIBORO", "children": [
+                              {"name": " Dwi", "detail": "27953100 Dwi MATANARI\nParents: Sihar MATANARI and Boru Jawa", "size": 1},
+                              {"name": " Ellen", "detail": "47207097 Ellen MATANARI\nParents: Sihar MATANARI and Boru Jawa", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Perry Alus", "detail": "65933935 Perry Alus SIBORO\nBorn: 1936/10/29\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan", "detail": "71134000 Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO\nBorn: 1965/08/28\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Graziella Vaniarani Deborah Sabatini", "detail": "19780944 Graziella Vaniarani Deborah Sabatini SIBORO\nBorn: 1995/04/29\nParents: Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO and Unita SAGALA", "size": 1},
+                              {"name": " Uriel Satyadeva", "detail": "48978816 Uriel Satyadeva SIBORO\nBorn: 1999/06/05\nParents: Guntur Soaloon Binsar Sodompahon Anggiat Tarida Pangihutan SIBORO and Unita SAGALA", "size": 1}
+                            ]},
+                            {"name": " Jayne Carmelia Rumondang", "detail": "24889122 Jayne Carmelia Rumondang SIBORO\nBorn: 1967/05/09\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Charly Geraeldo Melvern Parondian", "detail": "15448385 Charly Geraeldo Melvern Parondian SINAGA\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1},
+                              {"name": " Grimaldy Pardomuan Dawn Firstoney", "detail": "17558150 Grimaldy Pardomuan Dawn Firstoney SINAGA\nBorn: 1993/08/21\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1},
+                              {"name": " Yolanda Jesslyn Tiorida", "detail": "78115207 Yolanda Jesslyn Tiorida SINAGA\nBorn: 2004/05/29\nParents: Frans Truly Antho SINAGA and Jayne Carmelia Rumondang SIBORO", "size": 1}
+                            ]},
+                            {"name": " Christian Hamonangan", "detail": "78170703 Christian Hamonangan SIBORO\nBorn: 1968/12/03\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Chloudya Julia Emmanuelle Pretty", "detail": "92917979 Chloudya Julia Emmanuelle Pretty SIBORO\nBorn: 1998/07/04\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1},
+                              {"name": " Charlize Sakiko Deqita Mayhasian", "detail": "66731458 Charlize Sakiko Deqita Mayhasian SIBORO\nBorn: 2003/05/02\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1},
+                              {"name": " Christy Julieta Nobuko Tiarku", "detail": "58743083 Christy Julieta Nobuko Tiarku SIBORO\nBorn: 2007/07/25\nParents: Christian Hamonangan SIBORO and Janeth RITONGA", "size": 1}
+                            ]},
+                            {"name": " Arnold Pandapotan", "detail": "32917432 Arnold Pandapotan SIBORO\nBorn: 1972/04/25\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " 佳菜ソモルリアナ", "detail": "52606728 佳菜ソモルリアナ シボロ\nBorn: 2003/09/26\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1},
+                              {"name": " 理佳ロウリナ", "detail": "18211264 理佳ロウリナ シボロ\nBorn: 2006/01/05\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1},
+                              {"name": " 聖佳ロハナ", "detail": "53221919 聖佳ロハナ シボロ\nBorn: 2010/02/20\nParents: Arnold Pandapotan SIBORO and 佳代 鶴原", "size": 1}
+                            ]},
+                            {"name": " Shirley Tumiar", "detail": "25942016 Shirley Tumiar SIBORO\nBorn: 1973/10/04\nParents: Perry Alus SIBORO and Leries Nurhayati SITORUS", "children": [
+                              {"name": " Raul Raphael Jonathan Togarma", "detail": "72055545 Raul Raphael Jonathan Togarma SIMALANGO\nBorn: 2004/09/23\nParents: Oswald Semuel SIMALANGO and Shirley Tumiar SIBORO", "size": 1},
+                              {"name": " Ravelino Vabregas Pangondian", "detail": "52525706 Ravelino Vabregas Pangondian SIMALANGO\nBorn: 2008/12/03\nParents: Oswald Semuel SIMALANGO and Shirley Tumiar SIBORO", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Humala Malaras", "detail": "35361370 Humala Malaras SIBORO\nBorn: ABT 1955\nParents: Barita Laut SIBORO and Pade NAIBAHO", "children": [
+                            {"name": " Mitterank", "detail": "604606 Mitterank SIBORO\nBorn: ABT 1987\nParents: Humala Malaras SIBORO and Esther TOBING", "children": [
+                              {"name": " Nicolas Samuel", "detail": "16179801 Nicolas Samuel SIBORO\nBorn: 2011/09/24\nParents: Mitterank SIBORO and Jane Ellyn SILALAHI", "size": 1},
+                              {"name": " Maura Amabella", "detail": "92704469 Maura Amabella SIBORO\nBorn: 2016/06/05\nParents: Mitterank SIBORO and Jane Ellyn SILALAHI", "size": 1}
+                            ]},
+                            {"name": " Joana", "detail": "7569696 Joana SIBORO\nBorn: ABT 1988\nParents: Humala Malaras SIBORO and Esther TOBING", "size": 1},
+                            {"name": " Yesaya", "detail": "49220140 Yesaya SIBORO\nBorn: ABT 1990\nParents: Humala Malaras SIBORO and Esther TOBING", "size": 1},
+                            {"name": " Yeremia", "detail": "51215798 Yeremia SIBORO\nBorn: ABT 1990\nParents: Humala Malaras SIBORO and Esther TOBING", "size": 1}
+                          ]}
+                        ]},
+                        {"name": " Djuada T", "detail": "31145773 Djuada T SIBORO\nBorn: ABT 1915\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Wati", "detail": "93243746 Wati SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "41884864 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " Kader", "detail": "79829425 Kader SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "20261296 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "86267700 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "94736779 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " Merli", "detail": "63466980 Merli SIBORO\nBorn: ABT 1940\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " Muhammad Abdul", "detail": "71234125 Muhammad Abdul SIBORO\nBorn: ABT 1941\nDied: 2018/8/16\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "children": [
+                            {"name": " Mangiring", "detail": "12270086 Mangiring SIBORO\nParents: Muhammad Abdul SIBORO and Rusmisi SIMARMATA", "children": [
+                              {"name": " Sisco", "detail": "69466116 Sisco SIBORO\nParents: Mangiring SIBORO and (Mangiring's 1st wife)", "size": 1}
+                            ]},
+                            {"name": " Torang", "detail": "7841848 Torang SIBORO\nParents: Muhammad Abdul SIBORO and Rusmisi SIMARMATA", "children": [
+                              {"name": " Elizabeth Indah", "detail": "71683010 Elizabeth Indah SIBORO\nParents: Torang SIBORO and Bertha SIMORANGKIR", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Emirson", "detail": "98770162 Emirson SIBORO\nBorn: ABT 1942\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " Rapelli", "detail": "85161424 Rapelli SIBORO\nBorn: ABT 1943\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "children": [
+                            {"name": " Iwan", "detail": "70599433 Iwan SIMARMATA\nParents: (Rapelli's husband) SIMARMATA and Rapelli SIBORO", "size": 1},
+                            {"name": " Lindag", "detail": "51464772 Lindag SIMARMATA\nParents: (Rapelli's husband) SIMARMATA and Rapelli SIBORO", "size": 1},
+                            {"name": " Norman Sasono", "detail": "22612843 Norman Sasono SIMARMATA\nParents: (Rapelli's husband) SIMARMATA and Rapelli SIBORO", "size": 1},
+                            {"name": " Suhut", "detail": "64602787 Suhut SIMARMATA\nParents: (Rapelli's husband) SIMARMATA and Rapelli SIBORO", "size": 1}
+                          ]},
+                          {"name": " Raselli", "detail": "59519260 Raselli SIBORO\nBorn: ABT 1944\nParents: Djuada T SIBORO and (Djuada's wife) SIMANJORANG", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "78302533 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "46238253 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "85323280 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "59885920 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "30223999 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "60145372 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "18385609 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1},
+                          {"name": " (Djuada's daughter)", "detail": "64767128 (Djuada's daughter) SIBORO\nParents: Djuada T SIBORO and Boru Jawa", "size": 1}
+                        ]},
+                        {"name": " B. Gajus", "detail": "88821700 B. Gajus SIBORO\nBorn: ABT 1916\nDied: 2010/02/02\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Tanphowa", "detail": "70277856 Tanphowa SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Mansur", "detail": "78968498 Mansur SIHOTANG\nParents: (Mansur's father) SIHOTANG and Tanphowa SIBORO", "children": [
+                              {"name": " Timothy", "detail": "45794546 Timothy SIHOTANG\nParents: Mansur SIHOTANG and (Mansur's wife)", "size": 1}
+                            ]},
+                            {"name": " Sridawati", "detail": "21405632 Sridawati SIHOTANG\nParents: (Mansur's father) SIHOTANG and Tanphowa SIBORO", "children": [
+                              {"name": " Cinta", "detail": "16209758 Cinta LIMBONG\nParents: Hannes LIMBONG and Sridawati SIHOTANG", "size": 1},
+                              {"name": " Josesh", "detail": "86258608 Josesh LIMBONG\nParents: Hannes LIMBONG and Sridawati SIHOTANG", "size": 1},
+                              {"name": " Angela", "detail": "7715683 Angela LIMBONG\nParents: Hannes LIMBONG and Sridawati SIHOTANG", "size": 1},
+                              {"name": " Merelyn", "detail": "62975008 Merelyn LIMBONG\nParents: Hannes LIMBONG and Sridawati SIHOTANG", "size": 1}
+                            ]},
+                            {"name": " Dedi", "detail": "6783392 Dedi SINAGA\nParents: Amat SINAGA and Tanphowa SIBORO", "size": 1},
+                            {"name": " Gordoni", "detail": "56111064 Gordoni SINAGA\nParents: Amat SINAGA and Tanphowa SIBORO", "size": 1},
+                            {"name": " Eva Juliana", "detail": "50736694 Eva Juliana SINAGA\nParents: Amat SINAGA and Tanphowa SIBORO", "children": [
+                              {"name": " Ellen Lambasa", "detail": "98672228 Ellen Lambasa SILITONGA\nParents: Leon Spin SILITONGA and Eva Juliana SINAGA", "size": 1},
+                              {"name": " Blecenda Miranda", "detail": "67941259 Blecenda Miranda SILITONGA\nParents: Leon Spin SILITONGA and Eva Juliana SINAGA", "size": 1}
+                            ]},
+                            {"name": " Beauty", "detail": "36663170 Beauty SINAGA\nParents: Amat SINAGA and Tanphowa SIBORO", "size": 1},
+                            {"name": " Titin Junita", "detail": "16170096 Titin Junita SINAGA\nParents: Amat SINAGA and Tanphowa SIBORO", "size": 1}
+                          ]},
+                          {"name": " Hermawaty", "detail": "41953848 Hermawaty SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Darren", "detail": "75292176 Darren BUTARBUTAR\nParents: Hendra BUTARBUTAR and Hermawaty SIBORO", "size": 1},
+                            {"name": " Richie Horatius", "detail": "78682976 Richie Horatius BUTARBUTAR\nParents: Hendra BUTARBUTAR and Hermawaty SIBORO", "size": 1},
+                            {"name": " Edmund Paul", "detail": "88790856 Edmund Paul BUTARBUTAR\nParents: Hendra BUTARBUTAR and Hermawaty SIBORO", "size": 1}
+                          ]},
+                          {"name": " Wasty", "detail": "48912305 Wasty SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Fredy", "detail": "43336967 Fredy SIMANDJUNTAK\nParents: Roy SIMANDJUNTAK and Wasty SIBORO", "size": 1},
+                            {"name": " Sylvia", "detail": "9893669 Sylvia SIMANDJUNTAK\nParents: Roy SIMANDJUNTAK and Wasty SIBORO", "size": 1},
+                            {"name": " Yolanda Wenny", "detail": "96717101 Yolanda Wenny SIMANDJUNTAK\nParents: Roy SIMANDJUNTAK and Wasty SIBORO", "size": 1},
+                            {"name": " Bryand Billy", "detail": "29662076 Bryand Billy SIMANDJUNTAK\nParents: Roy SIMANDJUNTAK and Wasty SIBORO", "size": 1}
+                          ]},
+                          {"name": " Poltak", "detail": "32120204 Poltak SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Hanna", "detail": "7423924 Hanna SIBORO\nParents: Poltak SIBORO and (Poltak's wife) SIHOTANG", "size": 1},
+                            {"name": " Joseph", "detail": "26240456 Joseph SIBORO\nParents: Poltak SIBORO and (Poltak's wife) SIHOTANG", "size": 1},
+                            {"name": " Raymond", "detail": "86300069 Raymond SIBORO\nParents: Poltak SIBORO and (Poltak's wife) SIHOTANG", "size": 1}
+                          ]},
+                          {"name": " Mutiara", "detail": "9621433 Mutiara SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "size": 1},
+                          {"name": " Harvest", "detail": "58490500 Harvest SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Josiah Pirhot", "detail": "64595545 Josiah Pirhot SIBORO\nParents: Harvest SIBORO and Suhaemi A. SITUMEANG", "size": 1},
+                            {"name": " Nikita Abbigael Gaytari", "detail": "4665535 Nikita Abbigael Gaytari SIBORO\nParents: Harvest SIBORO and Suhaemi A. SITUMEANG", "size": 1},
+                            {"name": " Michelle Magdalene", "detail": "88419744 Michelle Magdalene SIBORO\nParents: Harvest SIBORO and Suhaemi A. SITUMEANG", "size": 1}
+                          ]},
+                          {"name": " Lintje", "detail": "77447388 Lintje SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Ira Irnawani", "detail": "99071616 Ira Irnawani SITANGGANG\nParents: Davit SITANGGANG and Lintje SIBORO", "children": [
+                              {"name": " (Ira's daughter)", "detail": "98851349 (Ira's daughter)\nParents: Todd GROSS and Ira Irnawani SITANGGANG", "size": 1}
+                            ]},
+                            {"name": " Yanti", "detail": "64807952 Yanti SITANGGANG\nParents: Davit SITANGGANG and Lintje SIBORO", "size": 1},
+                            {"name": " Shefrida Natari", "detail": "17720170 Shefrida Natari SITANGGANG\nParents: Davit SITANGGANG and Lintje SIBORO", "size": 1}
+                          ]},
+                          {"name": " Poibe Christina Meianna", "detail": "14974256 Poibe Christina Meianna SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Grace", "detail": "61075200 Grace HUTAPEA\nParents: R. Hulman HUTAPEA and Poibe Christina Meianna SIBORO", "children": [
+                              {"name": " Dilan", "detail": "80237828 Dilan\nParents: (Grace's husband) and Grace HUTAPEA", "size": 1}
+                            ]},
+                            {"name": " Paian", "detail": "87063361 Paian HUTAPEA\nParents: R. Hulman HUTAPEA and Poibe Christina Meianna SIBORO", "size": 1}
+                          ]},
+                          {"name": " Herlina Maret", "detail": "3676484 Herlina Maret SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Ryan", "detail": "71259200 Ryan SAGALA\nParents: Romulus SAGALA and Herlina Maret SIBORO", "size": 1},
+                            {"name": " Lidya", "detail": "6785773 Lidya SAGALA\nParents: Romulus SAGALA and Herlina Maret SIBORO", "size": 1},
+                            {"name": " Jerry", "detail": "41381280 Jerry SAGALA\nParents: Romulus SAGALA and Herlina Maret SIBORO", "size": 1}
+                          ]},
+                          {"name": " Fryda Roselyne", "detail": "157978 Fryda Roselyne SIBORO\nParents: B. Gajus SIBORO and Tarina SAGALA", "children": [
+                            {"name": " Halomoan", "detail": "21668441 Halomoan SIMBOLON\nParents: Nanti Panal SIMBOLON and Fryda Roselyne SIBORO", "size": 1},
+                            {"name": " Yoshiana", "detail": "91624268 Yoshiana SIMBOLON\nParents: Nanti Panal SIMBOLON and Fryda Roselyne SIBORO", "size": 1},
+                            {"name": " Nicholas Noly W. Banuara", "detail": "96668017 Nicholas Noly W. Banuara SIMBOLON\nParents: Nanti Panal SIMBOLON and Fryda Roselyne SIBORO", "children": [
+                              {"name": " Zechariah Lamhot Haposan", "detail": "44399688 Zechariah Lamhot Haposan SIMBOLON\nParents: Nicholas Noly W. Banuara SIMBOLON and Marliana SILALAHI SIPAKAR", "size": 1},
+                              {"name": " Matthew Hasudungan", "detail": "41841402 Matthew Hasudungan SIMBOLON\nParents: Nicholas Noly W. Banuara SIMBOLON and Marliana SILALAHI SIPAKAR", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Fanny", "detail": "83567012 Fanny SIBORO\nBorn: ABT 1961\nParents: B. Gajus SIBORO and Tarina SAGALA", "size": 1}
+                        ]},
+                        {"name": " Aries Ribeld", "detail": "79274371 Aries Ribeld SIBORO\nBorn: ABT 1917\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Ramsin", "detail": "53794156 Ramsin SIBORO\nBorn: ABT 1942\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Dewei Yudhi Avianto", "detail": "40932519 Dewei Yudhi Avianto SIBORO\nParents: Ramsin SIBORO and Cecilia Eny Herawati Feronika", "children": [
+                              {"name": " Nadia Putri Falisha", "detail": "15033704 Nadia Putri Falisha SIBORO\nParents: Dewei Yudhi Avianto SIBORO and Ira Prawita", "size": 1}
+                            ]},
+                            {"name": " Yulian Triangga Alvadeo", "detail": "84724456 Yulian Triangga Alvadeo SIBORO\nParents: Ramsin SIBORO and Cecilia Eny Herawati Feronika", "size": 1},
+                            {"name": " Lindra Roni Parlindungan", "detail": "1814607 Lindra Roni Parlindungan SIBORO\nParents: Ramsin SIBORO and Cecilia Eny Herawati Feronika", "size": 1},
+                            {"name": " Andi Yudha Pranata", "detail": "8339482 Andi Yudha Pranata SIBORO\nParents: Ramsin SIBORO and Cecilia Eny Herawati Feronika", "children": [
+                              {"name": " Rafael Carlo Dhava", "detail": "64979481 Rafael Carlo Dhava SIBORO\nParents: Andi Yudha Pranata SIBORO and Claudia Diva Redu", "size": 1},
+                              {"name": " Michaella Flavia Pranava", "detail": "91730816 Michaella Flavia Pranava SIBORO\nParents: Andi Yudha Pranata SIBORO and Claudia Diva Redu", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Rimson", "detail": "65348156 Rimson SIBORO\nBorn: ABT 1943\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Setia Pradana", "detail": "34880658 Setia Pradana SIBORO\nParents: Rimson SIBORO and Roida SAGALA", "size": 1},
+                            {"name": " Anotnius", "detail": "1197336 Anotnius SIBORO\nParents: Rimson SIBORO and Roida SAGALA", "size": 1},
+                            {"name": " Ernawati", "detail": "13563236 Ernawati SIBORO\nParents: Rimson SIBORO and Roida SAGALA", "size": 1},
+                            {"name": " Putra Guna", "detail": "98250815 Putra Guna SIBORO\nParents: Rimson SIBORO and Roida SAGALA", "size": 1},
+                            {"name": " Maria Sri Rejeki", "detail": "4961360 Maria Sri Rejeki SIBORO\nParents: Rimson SIBORO and Roida SAGALA", "size": 1}
+                          ]},
+                          {"name": " Rengsia Elvrida", "detail": "25385746 Rengsia Elvrida SIBORO\nBorn: ABT 1944\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "size": 1},
+                          {"name": " Mestron", "detail": "7735226 Mestron SIBORO\nBorn: ABT 1945\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Devia Cyta", "detail": "4219885 Devia Cyta SIBORO\nParents: Mestron SIBORO and (Mestron's wife) BATUBARA", "size": 1},
+                            {"name": " David Bradhyka", "detail": "79826822 David Bradhyka SIBORO\nParents: Mestron SIBORO and (Mestron's wife) BATUBARA", "size": 1},
+                            {"name": " Fanny Bella Istira", "detail": "93536304 Fanny Bella Istira SIBORO\nParents: Mestron SIBORO and (Mestron's wife) BATUBARA", "size": 1}
+                          ]},
+                          {"name": " Rosintan", "detail": "56785988 Rosintan SIBORO\nBorn: ABT 1946\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " (Rosintan’s daughter)", "detail": "19240796 (Rosintan’s daughter) SIBORO\nParents: Merdin SIMANJUNTAK and Rosintan SIBORO", "size": 1},
+                            {"name": " (Rosintan’s son)", "detail": "55881077 (Rosintan’s son) SIBORO\nParents: Merdin SIMANJUNTAK and Rosintan SIBORO", "size": 1}
+                          ]},
+                          {"name": " Sostri", "detail": "23533118 Sostri SIBORO\nBorn: ABT 1947\nDied: 2010/02/01\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Yohannes Pratama Bakti", "detail": "72839680 Yohannes Pratama Bakti GINTING\nParents: Riwanda GINTING and Sostri SIBORO", "size": 1},
+                            {"name": " Yohana Rhisanita", "detail": "62825158 Yohana Rhisanita GINTING\nParents: Riwanda GINTING and Sostri SIBORO", "size": 1}
+                          ]},
+                          {"name": " Kolestra", "detail": "52107982 Kolestra SIBORO\nBorn: ABT 1948\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Esra Tabita", "detail": "98989072 Esra Tabita SIBORO\nParents: Kolestra SIBORO and (Koles's wife) SIMANJUNTAK", "size": 1},
+                            {"name": " Karin", "detail": "92876294 Karin SIBORO\nParents: Kolestra SIBORO and (Koles's wife) SIMANJUNTAK", "size": 1}
+                          ]},
+                          {"name": " Kwatson", "detail": "8041668 Kwatson SIBORO\nBorn: ABT 1949\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Yiska", "detail": "60578308 Yiska SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1},
+                            {"name": " Anggrena", "detail": "93807316 Anggrena SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1},
+                            {"name": " Sabrina Sabatini", "detail": "50665424 Sabrina Sabatini SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1},
+                            {"name": " Yeskiel", "detail": "41118273 Yeskiel SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1},
+                            {"name": " Putri Meysi", "detail": "67425514 Putri Meysi SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1},
+                            {"name": " Butet", "detail": "13070680 Butet SIBORO\nParents: Kwatson SIBORO and SIBORO", "size": 1}
+                          ]},
+                          {"name": " Suparman", "detail": "23856352 Suparman SIBORO\nBorn: ABT 1950\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Marco Bobby", "detail": "72238436 Marco Bobby SIBORO\nParents: Suparman SIBORO and (Suparman's wife) PANGGABEAN", "size": 1},
+                            {"name": " Benaya", "detail": "96609380 Benaya SIBORO\nParents: Suparman SIBORO and (Suparman's wife) PANGGABEAN", "size": 1}
+                          ]},
+                          {"name": " Relfina", "detail": "4526776 Relfina SIBORO\nBorn: ABT 1951\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Trecy", "detail": "1273272 Trecy HUTABARAT\nParents: (Relfina's husband) HUTABARAT and Relfina SIBORO", "size": 1},
+                            {"name": " Grace", "detail": "20227577 Grace HUTABARAT\nParents: (Relfina's husband) HUTABARAT and Relfina SIBORO", "size": 1},
+                            {"name": " Citra Lestari", "detail": "72681784 Citra Lestari SIBORO\nParents: (Relfina's husband) HUTABARAT and Relfina SIBORO", "size": 1}
+                          ]},
+                          {"name": " Dewi", "detail": "86081544 Dewi SIBORO\nBorn: ABT 1952\nParents: Aries Ribeld SIBORO and Karolina SAGALA", "children": [
+                            {"name": " Rindu Marito", "detail": "3937274 Rindu Marito SIMBOLON\nParents: (Dewi's husband) SIMBOLON and Dewi SIBORO", "size": 1},
+                            {"name": " Dhea Claudia", "detail": "16581301 Dhea Claudia SIMBOLON\nParents: (Dewi's husband) SIMBOLON and Dewi SIBORO", "size": 1},
+                            {"name": " Shela Afni", "detail": "40051470 Shela Afni SIMBOLON\nParents: (Dewi's husband) SIMBOLON and Dewi SIBORO", "size": 1}
+                          ]}
+                        ]},
+                        {"name": " Martauli", "detail": "29483366 Martauli SIBORO\nBorn: ABT 1918\nParents: Apataram and Dosim SIDEBANG", "children": [
+                          {"name": " Orang Jawa", "detail": "99243088 Orang Jawa\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": " Jamaika", "detail": "6966394 Jamaika NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": " Dornenci", "detail": "22858316 Dornenci NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": " Edith", "detail": "75281060 Edith NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": " Alhayat", "detail": "13254000 Alhayat NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": "Pdt. A. Berlin", "detail": "9640164 A. Berlin NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "children": [
+                            {"name": " (Berlin's daughter)", "detail": "94527624 (Berlin's daughter) NAIBAHO\nParents: A. Berlin NAIBAHO and S. SIMBOLON", "size": 1},
+                            {"name": " Helen", "detail": "49943493 Helen NAIBAHO\nParents: A. Berlin NAIBAHO and S. SIMBOLON", "size": 1},
+                            {"name": " Fransisca", "detail": "62023643 Fransisca NAIBAHO\nParents: A. Berlin NAIBAHO and S. SIMBOLON", "size": 1},
+                            {"name": " Mitchell", "detail": "69123626 Mitchell NAIBAHO\nParents: A. Berlin NAIBAHO and S. SIMBOLON", "children": [
+                              {"name": " (Laurit's daughter)", "detail": "42498032 (Laurit's daughter) NAIBAHO\nParents: Mitchell NAIBAHO and Laurit MANURUNG", "size": 1}
+                            ]}
+                          ]},
+                          {"name": " Krosbina", "detail": "11239582 Krosbina NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "children": [
+                            {"name": " Boy", "detail": "59110336 Boy NABABAN\nParents: Tua Haposan and Krosbina NAIBAHO", "size": 1},
+                            {"name": " Ricky", "detail": "48234670 Ricky NABABAN\nParents: Tua Haposan and Krosbina NAIBAHO", "size": 1},
+                            {"name": " Dewi", "detail": "92773194 Dewi NABABAN\nParents: Tua Haposan and Krosbina NAIBAHO", "size": 1}
+                          ]},
+                          {"name": " Desmond", "detail": "18307689 Desmond NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "size": 1},
+                          {"name": " Raysui", "detail": "16651896 Raysui NAIBAHO\nParents: Armat G. NAIBAHO and Martauli SIBORO", "children": [
+                            {"name": " Andrew", "detail": "22187808 Andrew TURANGAN\nParents: Manado TURANGAN and Raysui NAIBAHO", "size": 1}
+                          ]}
+                        ]}
+                      ]}
+                    ]}
+                  ]},
+                  {"name": " Nawas", "detail": "70403476 Nawas SIBORO\nBorn: ABT 1845\nParents: Ompu Pasang SIBORO and unknown", "size": 1},
+                  {"name": " Ompu Longkung", "detail": "29121097 Ompu Longkung SIBORO\nBorn: ABT 1846\nParents: Ompu Pasang SIBORO and unknown", "size": 1},
+                  {"name": " Ompurdiaingot", "detail": "79690446 Ompurdiaingot SIBORO\nBorn: ABT 1847\nParents: Ompu Pasang SIBORO and unknown", "size": 1}
+                ]},
+                {"name": " Ompu Baturan", "detail": "76354590 Ompu Baturan SIBORO\nBorn: ABT 1820\nParents: Ompu Gojor SIBORO and unknown", "size": 1},
+                {"name": " Ompu Janata", "detail": "83901672 Ompu Janata SIBORO\nBorn: ABT 1821\nParents: Ompu Gojor SIBORO and unknown", "size": 1},
+                {"name": " Ompu Saperi", "detail": "64312785 Ompu Saperi SIBORO\nBorn: ABT 1822\nParents: Ompu Gojor SIBORO and unknown", "size": 1},
+                {"name": " Br.", "detail": "16706425 Br. SIBORO\nBorn: ABT 1823\nParents: Ompu Gojor SIBORO and unknown", "size": 1}
+              ]},
+              {"name": " Ompu Toga", "detail": "19656104 Ompu Toga SIBORO\nBorn: ABT 1795\nParents: Ompu Utul SIBORO and unknown", "children": [
+                {"name": " Ompu Baturan", "detail": "96590306 Ompu Baturan SIBORO\nBorn: ABT 1820\nParents: Ompu Toga SIBORO and unknown", "children": [
+                  {"name": " Ompu Binanga", "detail": "59119972 Ompu Binanga SIBORO\nBorn: ABT 1845\nParents: Ompu Baturan SIBORO and unknown", "children": [
+                    {"name": " Amani Binanga", "detail": "94205968 Amani Binanga SIBORO\nBorn: ABT 1870\nParents: Ompu Binanga SIBORO and unknown", "children": [
+                      {"name": " A. Jatua", "detail": "63008338 A. Jatua SIBORO\nBorn: ABT 1895\nParents: Amani Binanga SIBORO and unknown", "children": [
+                        {"name": " Apul", "detail": "94662848 Apul SIBORO\nBorn: ABT 1920\nParents: A. Jatua SIBORO and unknown", "children": [
+                          {"name": " Ucok", "detail": "15298938 Ucok SIBORO\nBorn: ABT 1945\nParents: Apul SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]},
+                    {"name": " Amani Dakka", "detail": "37420266 Amani Dakka SIBORO\nBorn: ABT 1871\nParents: Ompu Binanga SIBORO and unknown", "children": [
+                      {"name": " Ardin", "detail": "29096992 Ardin SIBORO\nBorn: ABT 1896\nParents: Amani Dakka SIBORO and unknown", "children": [
+                        {"name": " Aris", "detail": "65545096 Aris SIBORO\nBorn: ABT 1921\nParents: Ardin SIBORO and unknown", "size": 1}
+                      ]}
+                    ]},
+                    {"name": " Amani Dedeng", "detail": "14924504 Amani Dedeng SIBORO\nBorn: ABT 1872\nParents: Ompu Binanga SIBORO and unknown", "children": [
+                      {"name": " Bahing", "detail": "94599844 Bahing SIBORO\nBorn: ABT 1897\nParents: Amani Dedeng SIBORO and unknown", "children": [
+                        {"name": " Tommat", "detail": "69662043 Tommat SIBORO\nBorn: ABT 1922\nParents: Bahing SIBORO and unknown", "children": [
+                          {"name": " Hobbin", "detail": "80239180 Hobbin SIBORO\nBorn: ABT 1947\nParents: Tommat SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]}
+                  ]},
+                  {"name": " Ompu Badia", "detail": "67353266 Ompu Badia SIBORO\nBorn: ABT 1846\nParents: Ompu Baturan SIBORO and unknown", "children": [
+                    {"name": " Ompu Saruel", "detail": "53728130 Ompu Saruel SIBORO\nBorn: ABT 1871\nParents: Ompu Badia SIBORO and unknown", "children": [
+                      {"name": " A. Gortap", "detail": "52588552 A. Gortap SIBORO\nBorn: ABT 1896\nParents: Ompu Saruel SIBORO and unknown", "children": [
+                        {"name": " Saruel", "detail": "54987971 Saruel SIBORO\nBorn: ABT 1921\nParents: A. Gortap SIBORO and (A. Gortap's 2nd wife) SAGALA", "children": [
+                          {"name": " Wasty Sipriana", "detail": "89114132 Wasty Sipriana SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Ayu", "detail": "91905426 Ayu SINAGA\nParents: L. SINAGA and Wasty Sipriana SIBORO", "size": 1},
+                            {"name": " (L. Sinaga's daughter)", "detail": "80677002 (L. Sinaga's daughter) SINAGA\nParents: L. SINAGA and Wasty Sipriana SIBORO", "size": 1},
+                            {"name": " (L. Sinaga's daughter)", "detail": "48235846 (L. Sinaga's daughter) SINAGA\nParents: L. SINAGA and Wasty Sipriana SIBORO", "size": 1}
+                          ]},
+                          {"name": " Tiur Magdalena", "detail": "22640752 Tiur Magdalena SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Yanti", "detail": "10985318 Yanti SAGALA\nParents: M SAGALA and Tiur Magdalena SIBORO", "size": 1},
+                            {"name": " Marlina", "detail": "23976530 Marlina SAGALA\nParents: M SAGALA and Tiur Magdalena SIBORO", "size": 1},
+                            {"name": " Bachtiar", "detail": "96882072 Bachtiar SAGALA\nParents: M SAGALA and Tiur Magdalena SIBORO", "size": 1},
+                            {"name": " Teguh", "detail": "64778088 Teguh SAGALA\nParents: M SAGALA and Tiur Magdalena SIBORO", "size": 1}
+                          ]},
+                          {"name": " Lamhot Stevan", "detail": "34006457 Lamhot Stevan SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Ray", "detail": "70470912 Ray SIBORO\nParents: Lamhot Stevan SIBORO and SIBORO", "size": 1}
+                          ]},
+                          {"name": " Suhut Robert Robert", "detail": "90345683 Suhut Robert Robert SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "size": 1},
+                          {"name": " Sarmaida Fransisca", "detail": "33037382 Sarmaida Fransisca SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Adrio", "detail": "47986432 Adrio SAGALA\nParents: Darwin SAGALA and Sarmaida Fransisca SIBORO", "size": 1},
+                            {"name": " (Darwin's daughter)", "detail": "9565480 (Darwin's daughter) SAGALA\nParents: Darwin SAGALA and Sarmaida Fransisca SIBORO", "size": 1},
+                            {"name": " (Darwin's wife)", "detail": "12036877 (Darwin's wife) SAGALA\nParents: Darwin SAGALA and Sarmaida Fransisca SIBORO", "size": 1}
+                          ]},
+                          {"name": " Saut Simon", "detail": "94238731 Saut Simon SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "size": 1},
+                          {"name": " Sr. Petra", "detail": "76729376 Sr. Petra SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "size": 1},
+                          {"name": " Tinur Martina", "detail": "76125842 Tinur Martina SIBORO\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Putri", "detail": "39759146 Putri HUTAGALUNG\nParents: E. HUTAGALUNG and Tinur Martina SIBORO", "size": 1},
+                            {"name": " Batistuta", "detail": "92231474 Batistuta HUTAGALUNG\nParents: E. HUTAGALUNG and Tinur Martina SIBORO", "size": 1},
+                            {"name": " Pedro Gutagalung", "detail": "29617938 Pedro Gutagalung HUTAGALUNG\nParents: E. HUTAGALUNG and Tinur Martina SIBORO", "size": 1}
+                          ]},
+                          {"name": " Makmur Adrianus", "detail": "9253318 Makmur Adrianus SIBORO\nBorn: 1967/02/16\nParents: Saruel SIBORO and Riani SIJABAT", "children": [
+                            {"name": " Victoria", "detail": "6881378 Victoria SIBORO\nParents: Makmur Adrianus SIBORO and Cecilia Evonella NADAPDAP", "size": 1},
+                            {"name": " Domonicus Rex Putra Adella", "detail": "85272508 Domonicus Rex Putra Adella SIBORO\nParents: Makmur Adrianus SIBORO and Cecilia Evonella NADAPDAP", "size": 1},
+                            {"name": " John Louis", "detail": "76685484 John Louis SIBORO\nParents: Makmur Adrianus SIBORO and Cecilia Evonella NADAPDAP", "size": 1}
+                          ]}
+                        ]},
+                        {"name": " Aduraja Raja", "detail": "56585544 Aduraja Raja SIBORO\nBorn: ABT 1922\nParents: A. Gortap SIBORO and (A. Gortap's 2nd wife) SAGALA", "children": [
+                          {"name": " Cindy", "detail": "19863416 Cindy SIBORO\nBorn: ABT 1947\nParents: Aduraja Raja SIBORO and (Aduraja's wife) SAGALA", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Baturan", "detail": "6371368 Baturan SIBORO\nBorn: ABT 1897\nParents: Ompu Saruel SIBORO and unknown", "children": [
+                        {"name": " Maradu", "detail": "93265182 Maradu SIBORO\nParents: Baturan SIBORO and unknown", "size": 1},
+                        {"name": " Bonar", "detail": "34572616 Bonar SIBORO\nParents: Baturan SIBORO and unknown", "size": 1},
+                        {"name": " Resman", "detail": "71493798 Resman SIBORO\nParents: Baturan SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Jahongsi", "detail": "94390630 Jahongsi SIBORO\nBorn: ABT 1898\nParents: Ompu Saruel SIBORO and unknown", "children": [
+                        {"name": " Gaul", "detail": "41054080 Gaul SIBORO\nParents: Jahongsi SIBORO and unknown", "size": 1},
+                        {"name": " Robert", "detail": "10243288 Robert SIBORO\nParents: Jahongsi SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Ompu Tahi Badia", "detail": "17545324 Ompu Tahi Badia SIBORO\nBorn: ABT 1899\nParents: Ompu Saruel SIBORO and unknown", "children": [
+                        {"name": " Ompu Camat", "detail": "99949608 Ompu Camat\nBorn: ABT 1924\nParents: Ompu Tahi Badia SIBORO and unknown", "children": [
+                          {"name": " Tahi Badia", "detail": "48209598 Tahi Badia SIBORO\nBorn: ABT 1949\nParents: Ompu Camat and Siti Nurhasanah SITANGGANG", "size": 1}
+                        ]},
+                        {"name": " Nelson", "detail": "90200132 Nelson SIBORO\nBorn: ABT 1925\nParents: Ompu Tahi Badia SIBORO and unknown", "children": [
+                          {"name": " Ucok", "detail": "89458176 Ucok SIBORO\nBorn: ABT 1950\nParents: Nelson SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Tumpu", "detail": "3878652 Tumpu SIBORO\nBorn: ABT 1926\nParents: Ompu Tahi Badia SIBORO and unknown", "children": [
+                          {"name": " Tyson", "detail": "68324992 Tyson SIBORO\nBorn: ABT 1951\nParents: Tumpu SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]},
+                    {"name": " Ompu Togaraja", "detail": "80664697 Ompu Togaraja SIBORO\nBorn: ABT 1872\nParents: Ompu Badia SIBORO and unknown", "children": [
+                      {"name": " Bismar (Amarjawakkil)", "detail": "18493971 Bismar (Amarjawakkil) SIBORO\nBorn: ABT 1897\nParents: Ompu Togaraja SIBORO and unknown", "children": [
+                        {"name": " Toga Raja", "detail": "60376626 Toga Raja SIBORO\nBorn: ABT 1922\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Wesda", "detail": "38123932 Wesda SIBORO\nBorn: ABT 1947\nParents: Toga Raja SIBORO and unknown", "size": 1},
+                          {"name": " Martin", "detail": "67277056 Martin SIBORO\nBorn: ABT 1948\nParents: Toga Raja SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Pesta", "detail": "26480673 Pesta SIBORO\nBorn: ABT 1923\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Judi", "detail": "66942588 Judi SIBORO\nBorn: ABT 1948\nParents: Pesta SIBORO and unknown", "size": 1},
+                          {"name": " Rudi", "detail": "18287427 Rudi SIBORO\nBorn: ABT 1949\nParents: Pesta SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Derik", "detail": "74752424 Derik SIBORO\nBorn: ABT 1924\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Andi", "detail": "91448018 Andi SIBORO\nBorn: ABT 1949\nParents: Derik SIBORO and unknown", "size": 1},
+                          {"name": " Jansen", "detail": "42256504 Jansen SIBORO\nBorn: ABT 1950\nParents: Derik SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Surung", "detail": "94719096 Surung SIBORO\nBorn: ABT 1925\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Sihol", "detail": "19203768 Sihol SIBORO\nBorn: ABT 1950\nParents: Surung SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Sudirman", "detail": "72397174 Sudirman SIBORO\nBorn: ABT 1926\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Jefri", "detail": "34239712 Jefri SIBORO\nBorn: ABT 1951\nParents: Sudirman SIBORO and unknown", "size": 1},
+                          {"name": " Sahat", "detail": "87695593 Sahat SIBORO\nBorn: ABT 1952\nParents: Sudirman SIBORO and unknown", "size": 1},
+                          {"name": " Ucok", "detail": "62384558 Ucok SIBORO\nBorn: ABT 1953\nParents: Sudirman SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Galumbang", "detail": "40375412 Galumbang SIBORO\nBorn: ABT 1927\nParents: Bismar (Amarjawakkil) SIBORO and (Bismar's wife) SIMARMATA", "children": [
+                          {"name": " Beston", "detail": "58636932 Beston SIBORO\nBorn: ABT 1952\nParents: Galumbang SIBORO and unknown", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Gayus", "detail": "38047144 Gayus SIBORO\nBorn: ABT 1898\nParents: Ompu Togaraja SIBORO and unknown", "children": [
+                        {"name": " Kusman", "detail": "26448816 Kusman SIBORO\nBorn: ABT 1923\nParents: Gayus SIBORO and unknown", "children": [
+                          {"name": " (Kusman's son)", "detail": "64068558 (Kusman's son) SIBORO\nBorn: ABT 1948\nParents: Kusman SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Jabuhit", "detail": "55090976 Jabuhit SIBORO\nBorn: ABT 1924\nParents: Gayus SIBORO and unknown", "children": [
+                          {"name": " Juan", "detail": "98914196 Juan SIBORO\nBorn: ABT 1949\nParents: Jabuhit SIBORO and unknown", "size": 1},
+                          {"name": " Andrian", "detail": "96510968 Andrian SIBORO\nBorn: ABT 1950\nParents: Jabuhit SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Kaman", "detail": "83210406 Kaman SIBORO\nBorn: ABT 1925\nParents: Gayus SIBORO and unknown", "children": [
+                          {"name": " Darman", "detail": "91711932 Darman SIBORO\nBorn: ABT 1950\nParents: Kaman SIBORO and unknown", "size": 1},
+                          {"name": " Samuel", "detail": "77480665 Samuel SIBORO\nBorn: ABT 1951\nParents: Kaman SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Marata", "detail": "92957248 Marata SIBORO\nBorn: ABT 1926\nParents: Gayus SIBORO and unknown", "children": [
+                          {"name": " Ivan", "detail": "10941338 Ivan SIBORO\nBorn: ABT 1951\nParents: Marata SIBORO and unknown", "size": 1},
+                          {"name": " Vandes", "detail": "26131700 Vandes SIBORO\nBorn: ABT 1952\nParents: Marata SIBORO and unknown", "size": 1},
+                          {"name": " Orlando", "detail": "75199799 Orlando SIBORO\nBorn: ABT 1953\nParents: Marata SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Tarzan", "detail": "65190941 Tarzan SIBORO\nBorn: ABT 1927\nParents: Gayus SIBORO and unknown", "children": [
+                          {"name": " (Tarzan's son)", "detail": "50260462 (Tarzan's son) SIBORO\nBorn: ABT 1952\nParents: Tarzan SIBORO and unknown", "size": 1},
+                          {"name": " (Tarzan's son)", "detail": "353084 (Tarzan's son) SIBORO\nBorn: ABT 1953\nParents: Tarzan SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Maralim", "detail": "45781985 Maralim SIBORO\nBorn: ABT 1928\nParents: Gayus SIBORO and unknown", "size": 1}
+                      ]},
+                      {"name": " Galanggang", "detail": "64581416 Galanggang SIBORO\nBorn: ABT 1899\nParents: Ompu Togaraja SIBORO and unknown", "children": [
+                        {"name": " Utul", "detail": "41132565 Utul SIBORO\nBorn: ABT 1924\nParents: Galanggang SIBORO and unknown", "children": [
+                          {"name": " Robbin", "detail": "85363169 Robbin SIBORO\nBorn: ABT 1949\nParents: Utul SIBORO and unknown", "size": 1},
+                          {"name": " Mansen", "detail": "44532696 Mansen SIBORO\nBorn: ABT 1950\nParents: Utul SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Bernard", "detail": "11417420 Bernard SIBORO\nBorn: ABT 1925\nParents: Galanggang SIBORO and unknown", "children": [
+                          {"name": " (Bernard's son)", "detail": "97205386 (Bernard's son) SIBORO\nBorn: ABT 1950\nParents: Bernard SIBORO and unknown", "size": 1},
+                          {"name": " (Bernard's son)", "detail": "79105286 (Bernard's son) SIBORO\nBorn: ABT 1951\nParents: Bernard SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Merhan", "detail": "25047746 Merhan SIBORO\nBorn: ABT 1926\nParents: Galanggang SIBORO and unknown", "children": [
+                          {"name": " (Merhan's son)", "detail": "35159788 (Merhan's son) SIBORO\nBorn: ABT 1951\nParents: Merhan SIBORO and unknown", "size": 1}
+                        ]}
+                      ]},
+                      {"name": " Gomal (Lebanus)", "detail": "4835420 Gomal (Lebanus) SIBORO\nBorn: ABT 1900\nParents: Ompu Togaraja SIBORO and unknown", "children": [
+                        {"name": " Sabar", "detail": "20466322 Sabar SIBORO\nBorn: ABT 1925\nParents: Gomal (Lebanus) SIBORO and unknown", "children": [
+                          {"name": " Sardo", "detail": "88868974 Sardo SIBORO\nBorn: ABT 1950\nParents: Sabar SIBORO and unknown", "size": 1},
+                          {"name": " Sardimar", "detail": "86363342 Sardimar SIBORO\nBorn: ABT 1951\nParents: Sabar SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " Birman", "detail": "42718469 Birman SIBORO\nBorn: ABT 1926\nParents: Gomal (Lebanus) SIBORO and unknown", "children": [
+                          {"name": " Melwin", "detail": "51616221 Melwin SIBORO\nBorn: ABT 1951\nParents: Birman SIBORO and unknown", "size": 1}
+                        ]},
+                        {"name": " A. Zenita", "detail": "11635078 A. Zenita SIBORO\nBorn: 1958/01/17\nParents: Gomal (Lebanus) SIBORO and unknown", "children": [
+                          {"name": " Simon", "detail": "35940070 Simon SIBORO\nBorn: ABT 1952\nParents: A. Zenita SIBORO and unknown", "size": 1},
+                          {"name": " Managam", "detail": "73592127 Managam SIBORO\nBorn: ABT 1953\nParents: A. Zenita SIBORO and unknown", "size": 1}
+                        ]}
+                      ]}
+                    ]}
+                  ]}
+                ]},
+                {"name": " Apa Nail", "detail": "93876433 Apa Nail SIBORO\nBorn: ABT 1821\nParents: Ompu Toga SIBORO and unknown", "children": [
+                  {"name": " Amarjanata", "detail": "73769666 Amarjanata SIBORO\nBorn: ABT 1846\nParents: Apa Nail SIBORO and unknown", "children": [
+                    {"name": " Jamian", "detail": "66354414 Jamian SIBORO\nBorn: ABT 1871\nParents: Amarjanata SIBORO and unknown", "size": 1},
+                    {"name": " Hasingan", "detail": "95207498 Hasingan SIBORO\nBorn: ABT 1872\nParents: Amarjanata SIBORO and unknown", "size": 1}
+                  ]}
+                ]}
+              ]}
+            ]}
+          ]}
+        ]}
+      ]}
+    ]},
+    {"name": " Ompu Ni Ari Sorpa", "detail": "61069289 Ompu Ni Ari Sorpa\nBorn: ABT 1668\nParents: Oppuniarga Raja SIBORO and (Oppuniarga's wife) SAGALA", "size": 1}
+  ]},
+  {"name": " Pangaribuan", "detail": "13547091 Pangaribuan\nBorn: ABT 1643\nParents: Siparulas and Nai Asangpagar SAGALA", "size": 1},
+  {"name": " Raja Suha", "detail": "25901794 Raja Suha SIBORO\nBorn: ABT 1640\nParents: Siparulas and Boru Haranggaol", "children": [
+    {"name": " Tuan Hinalang", "detail": "93779195 Tuan Hinalang SIBORO\nParents: Raja Suha SIBORO and unknown", "size": 1}
+  ]}
+]};
