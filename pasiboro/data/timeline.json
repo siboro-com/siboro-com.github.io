@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pa-birth",
+    "date": "1936",
+    "title": "Birth of P. A. Siboro",
+    "summary": "Born in Lae Mbara (Parbuluan, Dairi, North Sumatra).",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "ln-birth",
+    "date": "1941",
+    "title": "Birth of L. N. Sitorus",
+    "summary": "Born in Lumban Sitorus (Porsea, North Tapanuli).",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "marriage",
+    "date": "1963",
+    "title": "Marriage in Bandung",
+    "summary": "P. A. Siboro and L. N. Sitorus were married in Bandung, West Java.",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "mission-kalbar",
+    "date": "1963-1969",
+    "title": "Missionary nurse service in West Kalimantan",
+    "summary": "Both served as Certified Missionary Nurses in West Kalimantan.",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "inderapura",
+    "date": "1969-1972",
+    "title": "Clinic service in Inderapura",
+    "summary": "They ran a clinic in Inderapura, North Sumatra.",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "caltex-era",
+    "date": "1973+",
+    "title": "Professional service in Riau",
+    "summary": "P. A. Siboro worked at PT Caltex Pacific Indonesia in Riau.",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  },
+  {
+    "id": "community-service",
+    "date": "1995+",
+    "title": "Community health ministry",
+    "summary": "Both continued community health service and public health talks.",
+    "verificationStatus": "verified",
+    "source": "Google Books: Perawat Misi"
+  }
+]

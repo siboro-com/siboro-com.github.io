@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Works • Pasiboro Heritage Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/site.css">
+  <script src="../assets/js/catalog.js" defer></script>
+</head>
+<body>
+  <div class="wrap">
+    <nav class="topnav" aria-label="Primary navigation">
+      <span class="tag">Works</span>
+      <a href="/pasiboro/">Home</a>
+      <a href="/pasiboro/biography/">Biography</a>
+      <a href="/pasiboro/archive/">Archive</a>
+      <a href="/pasiboro/legacy/">Legacy</a>
+      <a href="/pasiboro/search/">Search</a>
+    </nav>
+
+    <header class="hero">
+      <p class="kicker">Published and Recorded Outputs</p>
+      <h1>Works Catalog</h1>
+      <p>Books, media, and educational materials connected to P. A. Siboro and L. N. Sitorus.</p>
+    </header>
+
+    <section class="section" aria-labelledby="works-list-heading">
+      <h2 id="works-list-heading">Catalog Entries</h2>
+      <div id="works-list" class="grid"></div>
+    </section>
+    <p class="footer-note">Pasiboro Heritage Archive • Works</p>
+  </div>
+  <script>
+    fetch("../data/works.json")
+      .then((r) => r.json())
+      .then((items) => renderCatalog(items, "works-list"));
+  </script>
+</body>
+</html>

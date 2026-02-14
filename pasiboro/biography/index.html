@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Biography • Pasiboro Heritage Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav class="topnav" aria-label="Primary navigation">
+      <span class="tag">Biography</span>
+      <a href="/pasiboro/">Home</a>
+      <a href="/pasiboro/works/">Works</a>
+      <a href="/pasiboro/archive/">Archive</a>
+      <a href="/pasiboro/legacy/">Legacy</a>
+      <a href="/pasiboro/search/">Search</a>
+    </nav>
+
+    <header class="hero">
+      <p class="kicker">Life Story</p>
+      <h1>P. A. Siboro & L. N. Sitorus Timeline</h1>
+      <p>
+        This timeline summarizes verified milestones from currently documented sources.
+      </p>
+    </header>
+
+    <section class="section" aria-labelledby="timeline">
+      <h2 id="timeline">Core Timeline</h2>
+      <div id="timeline-list" class="timeline"></div>
+      <p class="meta">Verification statuses and source notes are preserved for future updates.</p>
+    </section>
+    <p class="footer-note">Pasiboro Heritage Archive • Biography</p>
+  </div>
+  <script>
+    fetch("../data/timeline.json")
+      .then((r) => r.json())
+      .then((items) => {
+        const target = document.getElementById("timeline-list");
+        target.innerHTML = items.map((i) => `
+          <article class="timeline-item">
+            <div class="date">${i.date}</div>
+            <h3>${i.title}</h3>
+            <p>${i.summary}</p>
+            <p class="meta"><strong>Source:</strong> ${i.source}</p>
+            <span class="badge ${i.verificationStatus === "verified" ? "status-verified" : "status-pending"}">
+              ${i.verificationStatus === "verified" ? "Verified" : "Pending Verification"}
+            </span>
+          </article>
+        `).join("");
+      });
+  </script>
+</body>
+</html>
