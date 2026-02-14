@@ -1,0 +1,114 @@
+:root {
+  --branch-bg: #f6f2e8;
+  --branch-surface: #fffdf8;
+  --branch-line: #d8cab0;
+  --branch-ink: #1f1b16;
+  --branch-ink-soft: #4b4135;
+  --branch-accent: #0f766e;
+  --branch-accent-warm: #b45309;
+  --branch-shadow: 0 12px 28px rgba(28, 24, 18, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--branch-bg);
+  color: var(--branch-ink);
+  font-family: "Manrope", "Trebuchet MS", sans-serif;
+}
+
+a {
+  color: var(--branch-accent);
+  text-underline-offset: 2px;
+}
+
+.branch-shell {
+  width: min(1100px, 94vw);
+  margin: 1.2rem auto;
+}
+
+.branch-hero {
+  background: linear-gradient(130deg, #f9e7bd, #cfe9e6);
+  border: 1px solid var(--branch-line);
+  border-radius: 18px;
+  padding: clamp(1rem, 2.7vw, 1.7rem);
+  box-shadow: var(--branch-shadow);
+}
+
+.branch-kicker {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  color: var(--branch-ink-soft);
+}
+
+.branch-title {
+  margin: 0.2rem 0 0.5rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  line-height: 1.1;
+}
+
+.branch-copy {
+  margin: 0;
+  max-width: 64ch;
+}
+
+.branch-actions,
+.branch-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1rem;
+  margin-top: 0.9rem;
+}
+
+.branch-action {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 700;
+  border: 1px solid rgba(31, 27, 22, 0.28);
+  border-radius: 999px;
+  padding: 0.4rem 0.85rem;
+  color: var(--branch-ink);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.branch-section {
+  margin-top: 1rem;
+  background: var(--branch-surface);
+  border: 1px solid var(--branch-line);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: var(--branch-shadow);
+}
+
+.branch-section h2 {
+  margin: 0 0 0.45rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.6rem;
+}
+
+.branch-note {
+  margin: 0.55rem 0 0;
+  color: var(--branch-ink-soft);
+}
+
+.sunburst-host-note {
+  margin-top: 0.8rem;
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #7c2d12;
+  background: rgba(180, 83, 9, 0.14);
+  border-radius: 999px;
+  padding: 0.26rem 0.6rem;
+}
+
+@media (max-width: 700px) {
+  .branch-shell {
+    width: min(100%, 96vw);
+  }
+}
