@@ -213,3 +213,27 @@ h2 {
     border-radius: 16px;
   }
 }
+
+
+.lang-switch {
+  margin-left: auto;
+  display: inline-flex;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  background: #fff;
+}
+
+.lang-switch a.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}

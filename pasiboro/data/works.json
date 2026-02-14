@@ -1,15 +1,29 @@
 [
   {
     "id": "perawat-misi",
-    "title": "Perawat Misi: Komitmen Hidup dalam Pelayanan",
+    "title": "Perawat Misi: Commitment to a Life of Service",
     "type": "Book",
     "date": "2020-06-01",
-    "summary": "Biographical mission-service narrative of P. A. Siboro and L. N. Sitorus across 50+ years.",
-    "people": ["P. A. Siboro", "L. N. Sitorus"],
-    "places": ["Bandung", "West Kalimantan", "Inderapura", "Riau"],
-    "tags": ["biography", "mission", "nursing"],
+    "summary": "Biographical mission-service narrative of P. A. Siboro and L. N. Sitorus across more than five decades.",
+    "people": [
+      "P. A. Siboro",
+      "L. N. Sitorus"
+    ],
+    "places": [
+      "Bandung",
+      "West Kalimantan",
+      "Inderapura",
+      "Riau"
+    ],
+    "tags": [
+      "biography",
+      "mission",
+      "nursing"
+    ],
     "language": "Indonesian",
     "source": "Google Books",
+    "sourceUrl": "https://www.google.co.jp/books/edition/Perawat_Misi/qSfoDwAAQBAJ?hl=ja&gbpv=1&dq=%22The+Siboro+Institute%22&pg=PT3&printsec=frontcover",
+    "externalUrl": "https://www.google.co.jp/books/edition/Perawat_Misi/qSfoDwAAQBAJ?hl=ja&gbpv=1&dq=%22The+Siboro+Institute%22&pg=PT3&printsec=frontcover",
     "provenance": "The Siboro Institute listing",
     "rights": "Copyright holder not yet documented on site",
     "verificationStatus": "verified",
@@ -21,11 +35,19 @@
     "type": "Book",
     "date": "2020-02-02",
     "summary": "Topical guide to Biblical promises and teachings across major life themes.",
-    "people": ["P. A. Siboro"],
+    "people": [
+      "P. A. Siboro"
+    ],
     "places": [],
-    "tags": ["religion", "bible", "promises"],
+    "tags": [
+      "religion",
+      "bible",
+      "promises"
+    ],
     "language": "Indonesian",
     "source": "Google Books",
+    "sourceUrl": "https://www.google.co.jp/books/edition/Janji_Janji_Allah_Dalam_Alkitab/oKrNDwAAQBAJ?hl=ja&gbpv=1&dq=inauthor:%22P.+A.+Siboro%22&printsec=frontcover",
+    "externalUrl": "https://www.google.co.jp/books/edition/Janji_Janji_Allah_Dalam_Alkitab/oKrNDwAAQBAJ?hl=ja&gbpv=1&dq=inauthor:%22P.+A.+Siboro%22&printsec=frontcover",
     "provenance": "The Siboro Institute listing",
     "rights": "Copyright holder not yet documented on site",
     "verificationStatus": "verified",
@@ -33,33 +55,77 @@
   },
   {
     "id": "arang-aktif",
-    "title": "Arang Aktif: Penyembuh Ajaib Berbagai Penyakit",
+    "title": "Arang Aktif: Activated Charcoal as Practical Healing Support",
     "type": "Book",
     "year": "2013",
     "summary": "Practical health guidance on activated charcoal, immunity, and lifestyle medicine.",
-    "people": ["P. A. Siboro"],
-    "places": ["Indonesia"],
-    "tags": ["health", "activated charcoal", "community education"],
+    "people": [
+      "P. A. Siboro"
+    ],
+    "places": [
+      "Indonesia"
+    ],
+    "tags": [
+      "health",
+      "activated charcoal",
+      "community education"
+    ],
     "language": "Indonesian",
-    "source": "Local source notes + Google Books listing",
-    "provenance": "PLAN appendix 14.4 and 14.5",
+    "source": "Google Books and publication notes",
+    "sourceUrl": "https://www.google.co.jp/books/edition/Arang_Aktif/MADDDwAAQBAJ?hl=ja&gbpv=1&dq=%22The+Siboro+Institute%22&printsec=frontcover",
+    "externalUrl": "https://www.google.co.jp/books/edition/Arang_Aktif/MADDDwAAQBAJ?hl=ja&gbpv=1&dq=%22The+Siboro+Institute%22&printsec=frontcover",
+    "provenance": "Public bibliographic references",
     "rights": "Copyright holder not yet documented on site",
     "verificationStatus": "pending",
-    "notes": "Pending full bibliographic verification against source file"
+    "notes": "Pending expanded bibliographic verification"
   },
   {
     "id": "youtube-memorial",
     "title": "P. A. Siboro Memorial (YouTube Channel)",
     "type": "Video Collection",
-    "summary": "Channel archive featuring mission stories and health ministry recordings.",
-    "people": ["P. A. Siboro", "L. N. Sitorus"],
+    "summary": "Channel featuring mission stories and community health ministry recordings.",
+    "people": [
+      "P. A. Siboro",
+      "L. N. Sitorus"
+    ],
     "places": [],
-    "tags": ["video", "memorial", "ministry"],
+    "tags": [
+      "video",
+      "memorial",
+      "ministry"
+    ],
     "language": "Indonesian/English/Japanese mix",
-    "source": "User-provided summary",
-    "provenance": "PLAN section 14.2",
+    "source": "YouTube",
+    "sourceUrl": "https://www.youtube.com/@pasiboromemorial",
+    "externalUrl": "https://www.youtube.com/@pasiboromemorial",
+    "provenance": "Public channel listing",
     "rights": "Platform-hosted content rights vary",
     "verificationStatus": "pending",
-    "notes": "Channel metadata should be verified directly"
+    "notes": "Channel metadata should be periodically reviewed"
+  },
+  {
+    "id": "about-me-profile",
+    "title": "P. A. Siboro Public Biography Profile",
+    "type": "Profile",
+    "summary": "Public profile summarizing personal history, service focus, and professional background.",
+    "people": [
+      "P. A. Siboro"
+    ],
+    "places": [
+      "Indonesia"
+    ],
+    "tags": [
+      "profile",
+      "biography",
+      "public reference"
+    ],
+    "language": "English/Indonesian",
+    "source": "about.me",
+    "sourceUrl": "https://about.me/pasiboro",
+    "externalUrl": "https://about.me/pasiboro",
+    "provenance": "Public profile page",
+    "rights": "Third-party platform content",
+    "verificationStatus": "pending",
+    "notes": "Use as contextual source with cross-checking"
   }
 ]
