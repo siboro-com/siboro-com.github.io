@@ -1,23 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BMTYW6GDJG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BMTYW6GDJG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-BMTYW6GDJG');
+  </script>
 
-  gtag('config', 'G-BMTYW6GDJG');
-</script>
-
-<meta charset="utf-8">
-<script src='https://d3js.org/d3.v4.min.js'></script>
-<script src="family.json"></script>
-<link rel="stylesheet" type="text/css" href="sunburst.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sitorus Branch Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../assets/css/branch.css">
+  <link rel="stylesheet" type="text/css" href="sunburst.css">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="family.json"></script>
 </head>
 <body>
-Tarombo ni Toga Sitorus<br>
-<script src='sunburst.js'></script>
+  <main class="branch-shell">
+    <header class="branch-hero">
+      <p class="branch-kicker">Sitorus Branch</p>
+      <h1 class="branch-title">Tarombo ni Toga Sitorus</h1>
+      <p class="branch-copy">
+        Discover Toga Sitorus branch lineage with the existing interactive tree and preserved source data.
+      </p>
+      <nav class="branch-actions" aria-label="Primary navigation">
+        <a class="branch-action" href="../">Back to Family Portal</a>
+        <a class="branch-action" href="../pasiboro/">Initiator Page</a>
+      </nav>
+    </header>
+
+    <section class="branch-section" aria-labelledby="sitorus-resources">
+      <h2 id="sitorus-resources">Branch Resources</h2>
+      <div class="branch-links">
+        <a href="family.json">family.json</a>
+        <a href="family-org.json">family-org.json</a>
+        <a href="Tarombo Batak.ged">Tarombo Batak.ged</a>
+        <a href="README.md">README</a>
+        <a href="examples/family.html">Example View</a>
+      </div>
+      <p class="branch-note">
+        Branch resources and data files remain unchanged; this refresh standardizes the landing experience.
+      </p>
+      <span class="sunburst-host-note">Interactive sunburst loads below</span>
+    </section>
+  </main>
+  <script src="sunburst.js"></script>
 </body>
 </html>
