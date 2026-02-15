@@ -1,0 +1,18 @@
+## Dependencies
+node_modules/
+
+## Local agent/tool state (personal)
+.claude/
+
+## OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## Logs and temp
+*.log
+tmp/
+.tmp/
