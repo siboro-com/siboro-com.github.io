@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Works • Pasiboro Heritage Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../pasiboro/assets/css/site.css"><script src="../../pasiboro/assets/js/catalog.js" defer></script>
+</head>
+<body>
+  <div class="wrap"><nav class="topnav" aria-label="Primary navigation"><span class="tag">Works</span>
+      <a href="/en/pasiboro/">Home</a>
+      <a href="/en/pasiboro/biography/">Biography</a>
+      <a href="/en/pasiboro/works/">Works</a>
+      <a href="/en/pasiboro/legacy/">Legacy</a>
+      <a href="/en/pasiboro/contribute/">Contribute</a>
+      <a href="/en/pasiboro/search/">Search</a>
+      <a href="/en/">Portal Root</a>
+    
+      <div class="lang-switch" aria-label="Language switcher">
+        <a href="/en/pasiboro/works/" class="active">EN</a>
+        <a href="/id/pasiboro/works/" class="">ID</a>
+        <a href="/ja/pasiboro/works/" class="">日本語</a>
+      </div>
+    </nav>
+    <header class="hero"><p class="kicker">Published and Recorded Outputs</p><h1>Works and Source Links</h1><p>Curated books, video collections, and ministry resources linked to public external sources.</p></header>
+    <section class="section" aria-labelledby="works-list-heading"><h2 id="works-list-heading">Catalog Entries</h2><div id="works-list" class="grid"></div></section>
+    <p class="footer-note">Pasiboro Heritage Portal • Works</p></div>
+  <script>fetch(`/pasiboro/data/works.en.json`).then((r)=>r.json()).then((items)=>renderCatalog(items, "works-list"));</script>
+</body>
+</html>

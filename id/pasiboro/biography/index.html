@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Biografi • Portal Warisan Pasiboro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../pasiboro/assets/css/site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav class="topnav" aria-label="Primary navigation"><span class="tag">Biografi</span>
+      <a href="/id/pasiboro/">Beranda</a>
+      <a href="/id/pasiboro/biography/">Biografi</a>
+      <a href="/id/pasiboro/works/">Karya</a>
+      <a href="/id/pasiboro/legacy/">Warisan</a>
+      <a href="/id/pasiboro/contribute/">Kontribusi</a>
+      <a href="/id/pasiboro/search/">Pencarian</a>
+      <a href="/id/">Portal Utama</a>
+    
+      <div class="lang-switch" aria-label="Language switcher">
+        <a href="/en/pasiboro/biography/" class="">EN</a>
+        <a href="/id/pasiboro/biography/" class="active">ID</a>
+        <a href="/ja/pasiboro/biography/" class="">日本語</a>
+      </div>
+    </nav>
+    <header class="hero"><p class="kicker">Kisah Hidup</p><h1>Linimasa P. A. Siboro & L. N. Sitorus</h1><p>Linimasa ini menampilkan tonggak terverifikasi dan menandai bagian yang masih perlu validasi sumber lebih lanjut.</p></header>
+    <section class="section" aria-labelledby="timeline"><h2 id="timeline">Linimasa Utama</h2><div id="timeline-list" class="timeline"></div><p class="meta">Setiap entri menampilkan status verifikasi dan referensi sumber.</p></section>
+    <p class="footer-note">Portal Warisan Pasiboro • Biografi</p>
+  </div>
+  <script>
+    fetch(`/pasiboro/data/timeline.id.json`).then((r) => r.json()).then((items) => {
+      const target = document.getElementById("timeline-list");
+      target.innerHTML = items.map((i) => `
+        <article class="timeline-item">
+          <div class="date">${i.date}</div>
+          <h3>${i.title}</h3>
+          <p>${i.summary}</p>
+          <p class="meta"><strong>Sumber:</strong> ${i.source}</p>
+          ${i.sourceUrl ? `<p class="meta"><a href="${i.sourceUrl}" target="_blank" rel="noopener noreferrer">Buka referensi sumber</a></p>` : ""}
+          <span class="badge ${i.verificationStatus === "verified" ? "status-verified" : "status-pending"}">
+            ${i.verificationStatus === "verified" ? "Terverifikasi" : "Menunggu Verifikasi"}
+          </span>
+        </article>
+      `).join("");
+    });
+  </script>
+</body>
+</html>
